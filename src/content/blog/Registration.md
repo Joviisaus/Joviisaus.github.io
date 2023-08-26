@@ -1,5 +1,5 @@
 ---
-title: 'Registration'
+title: '📐Registration'
 description: 'Record of coding a registration system'
 pubDate: 'Aug 20 2023'
 heroImage: '/Registration/Face_Lap.jpg'
