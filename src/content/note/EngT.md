@@ -71,34 +71,30 @@ heroImage: '/English.jpg'
    - 态度题
 
      > **根据作者使用的词语的褒贬性，或者例子的褒贬性来判断态度**
-     >
-     > 注意：
-     >
-     > 1. ﻿﻿﻿阅读时做好标记（ + ; - ）
-     > 2. ﻿﻿一般来说，*带有绝对化或过于强烈的表达*是错误选项，*保留态度*的比较客观的选项才是正确答案
-     >
-     > 1. ﻿﻿注意看清是作者的态度还是引用别人的态度
-     > 2. ﻿﻿﻿*文中态度若有转折，首选中立客观,没有中立，选转折后* ，转折前永远不选
-     >
-     > 选项词汇归纳
-     >
-     > 1. ﻿﻿正面：positive optimistic approval supportive
-     > 2. ﻿﻿负面：negative pessimistic disapproval critical doubtful suspicious skeptical
-     >
-     > questionable
-     >
-     > 3. ﻿﻿中立：neutral objective impartial disinterest
-     >
-     > 4. ﻿﻿﻿陪跑：uninterested unconcerned indifferent confused puzzled subjective biased
-     >
-     > prejudice contemptuous
-     >
-     > ⭐️当作者的态度没有明确提出时：
-     >
-     > - 文章的框架
-     > - adj adv
-     > - 转折处
-     > - 情态动词后
+     
+      注意：
+     
+      1. ﻿﻿﻿阅读时做好标记（ + ; - ）
+      2. ﻿﻿一般来说，*带有绝对化或过于强烈的表达*是错误选项，*保留态度*的比较客观的选项才是正确答案
+     
+      1. ﻿﻿注意看清是作者的态度还是引用别人的态度
+      2. ﻿﻿﻿*文中态度若有转折，首选中立客观,没有中立，选转折后* ，转折前永远不选
+     
+      选项词汇归纳
+     
+      1. ﻿﻿正面：positive optimistic approval supportive
+      2. ﻿﻿负面：negative pessimistic disapproval critical doubtful suspicious skeptical questionable
+     
+      3. ﻿﻿中立：neutral objective impartial disinterest
+     
+      4. ﻿﻿﻿陪跑：uninterested unconcerned indifferent confused puzzled subjective biased prejudice contemptuous
+     
+      ⭐️当作者的态度没有明确提出时：
+     
+      - 文章的框架
+      - adj adv
+      - 转折处
+      - 情态动词后
 
    - 语义理解题（词汇题、指代题、句子理解题）
 
