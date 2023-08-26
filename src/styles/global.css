@@ -5,8 +5,8 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	--accent: #fa824e;
+	--accent-dark: #df3b04;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -46,7 +46,7 @@ main {
 	width: 720px;
 	max-width: calc(100% - 2em);
 	margin: auto;
-	padding: 3em 1em;
+	padding: 1em 1em;
 }
 h1,
 h2,
@@ -59,10 +59,10 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	font-size: 3.052em;
+	font-size: 2.852em;
 }
 h2 {
-	font-size: 2.441em;
+	font-size: 2.241em;
 }
 h3 {
 	font-size: 1.953em;
@@ -84,10 +84,10 @@ a:hover {
 	color: var(--accent);
 }
 p {
-	margin-bottom: 1em;
+	margin-bottom: 0.5em;
 }
 .prose p {
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 }
 textarea {
 	width: 100%;
@@ -118,9 +118,9 @@ pre > code {
 }
 blockquote {
 	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
+	padding: 0 0 0 10px;
 	margin: 0px;
-	font-size: 1.333em;
+	font-size: 0.833em;
 }
 hr {
 	border: none;
