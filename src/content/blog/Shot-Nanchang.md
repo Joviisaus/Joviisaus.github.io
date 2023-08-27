@@ -15,8 +15,6 @@ heroImage: '/Nanchang/IMG.jpeg'
 
 ![DSCF5557](/Nanchang/DSCF5557.jpeg)
 
-![DSCF5543](/Nanchang/DSCF5540.jpeg)
-
 ![DSCF5510](/Nanchang/DSCF5510.jpeg)
 
 ![DSCF5514](/Nanchang/DSCF5514.jpeg)
