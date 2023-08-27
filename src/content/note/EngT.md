@@ -1,9 +1,13 @@
 ---
-title: '考研英语学习笔记'
+title: '考研英语做题技巧方法论'
 description: '这篇博客将记录考研英语做总结出的做题技巧'
 pubDate: 'Aug 12 2023'
 heroImage: '/English.jpg'
 ---
+
+### 前言
+
+本笔记用于记录市面上众多老师的
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: '考研政治'
+title: '考研政治易错点集萃'
 description: '这篇博客将记录考研政治中的易错点'
 pubDate: 'Aug 12 2023'
 heroImage: '/politic.png'
