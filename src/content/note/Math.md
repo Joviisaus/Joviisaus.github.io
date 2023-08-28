@@ -34,35 +34,35 @@ heroImage: '/Math.jpeg'
   > 一般$f$和$g$一个具体一个抽象
 - 泰勒公式
   > 这个都要来查的建议先复习到两点😡
-  > 在出现$f$和$f''$的时候重点考虑
+  >
+  > 🌟在出现$f$和$f''$的时候重点考虑
 
 ##### 常见积分
 不定积分
- $$
-
+$$
  \int \tan x dx = -ln|\cot x|+c 
- $$
- $$
+$$
+$$
  \int \frac{dx}{\cos x} = ln|\frac{1}{\cos x}+\tan x|+c
- $$
- $$
+$$
+$$
  \int \frac{dx}{\sin x} = ln|\frac{1}{\sin x}-\tan x|+c
- $$
- $$
+$$
+$$
  \int \frac{dx}{\sqrt{x^2+a^2}} = ln|x+\sqrt{x^2+a^2}|+c
- $$
- $$
+$$
+$$
  \int \frac{dx}{\sqrt{x^2-a^2}} = ln|x+\sqrt{x^2-a^2}|+c
- $$
- $$
+$$
+$$
  \int \frac{dx}{x^2-a^2} = \frac{1}{2a}ln|\frac{x-a}{x+a}|+c
- $$
- $$
+$$
+$$
  \int \tan^2 x dx = \tan x -x+c
- $$
- $$
+$$
+$$
  \int \cot^2 x dx = -\cot x-x +c
- $$
+$$
 
 ##### 简单的二次曲面（记名字）
 1. 单叶双曲面
@@ -82,3 +82,67 @@ heroImage: '/Math.jpeg'
    $$
    \frac{x^2}{a^2}-\frac{y^2}{b^2} = cz
    $$
+
+#### 空间几何
+ 曲面的法向量：
+$$
+ 曲面:F(x,y,z) = 0,法向量:\vec{\lambda} = (F'_x,F'_y,F'_z)
+$$
+ 曲线的切向量：
+参数方程
+$$
+F(t):
+      x= \phi(t) \\
+      y = \Phi(t) \\
+      z = \omega(t)\\
+
+$$
+$$
+    \vec{\tau} = (\phi'(t),\Phi'(t),\omega'(t))
+$$
+
+平面的交线
+$$
+\left\{
+\begin{array}
+      aF(x,y,z) = 0\\
+      G(x,y,z) = 0
+    \end{array}
+    \right.
+    \\ \vec{\tau} = (\left(\begin{array}
+    aF'_y & F'_z \\
+    G'_y & G'_z \\
+    \end{array}\right)
+    ,
+    \left(\begin{array}
+    aF'_z & F'_x \\
+    G'_z & G'_x \\
+    \end{array}\right),
+    \left(\begin{array}
+    aF'_x & F'_y \\
+    G'_x & G'_y \\
+    \end{array}\right))
+$$
+
+#### 微分方程
+一阶非齐次线性微分方程
+$$y'+P(x)y=Q(x)$$
+$$
+y = (
+  \int q(x)e^{\int p(x) dx}+c
+)e^{-\int p(x) dx}
+$$
+
+#### 曲线与曲面积分
+
+第一型曲线积分("一投，二代，三计算")
+
+$$
+\left\{
+  \begin{array}
+  a直角坐标: ds = \sqrt{1+(y'_x)^2}dx \\
+  参数: ds = \sqrt{(x'_t)^2+(y'_t)^2} dt \\
+  极坐标: ds = \sqrt{[r(\theta)]^2+[r'(\theta)]^2}
+  \end{array}
+  \right.
+$$
