@@ -15,6 +15,8 @@
     "@astrojs/sitemap": "^2.0.1",
     "@fontsource/noto-serif-sc": "^5.0.7",
     "@fontsource/zcool-qingke-huangyou": "^5.0.7",
-    "astro": "^2.10.5"
+    "astro": "^2.10.5",
+    "rehype-katex": "^6.0.3",
+    "remark-math": "^5.1.1"
   }
 }
