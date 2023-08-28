@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
+import '@fontsource/noto-serif-sc';
 
 const posts = (await getCollection('note')).sort(
 	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
@@ -19,6 +20,7 @@ const posts = (await getCollection('note')).sort(
 		<style>
 			main {
 				width: 960px;
+				
 			}
 			ul {
 				display: flex;

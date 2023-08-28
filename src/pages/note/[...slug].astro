@@ -1,6 +1,7 @@
 ---
 import { CollectionEntry, getCollection } from 'astro:content';
 import NotePost from '../../layouts/NotePost.astro';
+import '@fontsource/noto-serif-sc';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('note');
