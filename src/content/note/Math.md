@@ -89,40 +89,44 @@ $$
  曲面:F(x,y,z) = 0,法向量:\vec{\lambda} = (F'_x,F'_y,F'_z)
 $$
  曲线的切向量：
-参数方程
-$$
-F(t):
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large F\left\{
+\begin{array}
       x= \phi(t) \\
       y = \Phi(t) \\
       z = \omega(t)\\
+    \end{array}
+    \right.
+    \\ \vec{\tau} = (\phi'(t),\Phi'(t),\omega'(t))" style="border:none;">
 
-$$
-$$
-    \vec{\tau} = (\phi'(t),\Phi'(t),\omega'(t))
-$$
 
-平面的交线
-$$
+
+曲面的交线：
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= 
 \left\{
 \begin{array}
-      aF(x,y,z) = 0\\
+      F(x,y,z) = 0\\
       G(x,y,z) = 0
     \end{array}
     \right.
-    \\ \vec{\tau} = (\left(\begin{array}
-    aF'_y & F'_z \\
+" style="border:none;">
+
+<img src="https://latex.codecogs.com/png.image?{
+   \vec{\tau} = ( \left|\begin{matrix}
+    F'_y & F'_z \\
     G'_y & G'_z \\
-    \end{array}\right)
+    \end{matrix}\right|
     ,
-    \left(\begin{array}
-    aF'_z & F'_x \\
+    \left|\begin{matrix}
+    F'_z & F'_x \\
     G'_z & G'_x \\
-    \end{array}\right),
-    \left(\begin{array}
-    aF'_x & F'_y \\
+    \end{matrix}\right|,
+    \left|\begin{matrix}
+    F'_x & F'_y \\
     G'_x & G'_y \\
-    \end{array}\right))
-$$
+    \end{matrix}\right|)
+}">
 
 #### 微分方程
 一阶非齐次线性微分方程
@@ -137,12 +141,12 @@ $$
 
 第一型曲线积分("一投，二代，三计算")
 
-$$
-\left\{
-  \begin{array}
-  a直角坐标: ds = \sqrt{1+(y'_x)^2}dx \\
-  参数: ds = \sqrt{(x'_t)^2+(y'_t)^2} dt \\
-  极坐标: ds = \sqrt{[r(\theta)]^2+[r'(\theta)]^2}
-  \end{array}
+<img src="https://latex.codecogs.com/png.image?{
+  \left\{
+  \begin{matrix}
+  ds = \sqrt{1+(y'_x)^2}dx \\
+  ds = \sqrt{(x'_t)^2+(y'_t)^2}dt \\
+  ds = \sqrt{[r(\theta)]^2+[r'(\theta)]^2}d\theta
+  \end{matrix}
   \right.
-$$
+}"# >
