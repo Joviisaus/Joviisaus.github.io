@@ -178,3 +178,8 @@ Otherwise:空格前后文指代的不一定是同一件事情。
    > [A] depends on meaningful processing of information.⭕️
    >
    > [B] requires immediate feedback and a high degree of concentration.❌
+
+4. ？出现在开头
+    > 1. 表示这与本文的中心或者作者的态度密切相关
+    > 2. 表示对已经提出的某一观点的质疑与否定
+
