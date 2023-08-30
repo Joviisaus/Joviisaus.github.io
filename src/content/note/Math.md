@@ -193,7 +193,7 @@ $$
 
 1. 直接投影
    $$
-   \small \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
+   \footnotesize \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
    $$
 2. 转换投影
    $$
