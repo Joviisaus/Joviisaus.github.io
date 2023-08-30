@@ -162,7 +162,7 @@ $$
    <img src="https://latex.codecogs.com/png.image?{
     \oint_\Gamma P dx + Q dy +R dz 
     }">
-    
+
    <img src="https://latex.codecogs.com/png.image?{
      = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
     }">
@@ -183,7 +183,7 @@ $$
 #### 第一型曲面积分
 $$
   \small \iint_\Sigma f(x,y,z) dS \\
-  \small = \iint_{D_{xy}} f(x,y,z(x,y))\sqrt{1+(z'_x)^2+(z'_y)^2}dxdy
+  \scriptscriptstyle = \iint_{D_{xy}} f(x,y,z(x,y))\sqrt{1+(z'_x)^2+(z'_y)^2}dxdy
 $$
 
 #### 第二型曲面积分（别总是无脑上高斯）
