@@ -185,11 +185,11 @@ $$
 
 1. 直接投影
    $$
-   \small \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
+   \tiny \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
    $$
 2. 转换投影
    $$
-   \small \iint_{D_{xy}}[P(-\frac{\partial z}{\partial x})+Q(-\frac{\partial z}{\partial y})+R]dxdy
+   \tiny \iint_{D_{xy}}[P(-\frac{\partial z}{\partial x})+Q(-\frac{\partial z}{\partial y})+R]dxdy
    $$
 3. 高斯公式（建议最后再考虑）
    $$
