@@ -158,10 +158,15 @@ $$
     \small = \int_\Gamma [p(x'_t)+ Q(y'_t)+ R(z'_t)]dt
    $$
 2. 斯托克斯公式（封闭无奇点）
-   $$
+
+   <img src="https://latex.codecogs.com/png.image?{
+    \oint_\Gamma P dx + Q dy +R dz \\
+     = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
+    }">
+   <!-- $$
    \scriptsize \oint_\Gamma P dx + Q dy +R dz \\
     \scriptsize = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz\\+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx\\+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
-   $$
+   $$ -->
    可以同旋度公式一起记
 
    <img src="https://latex.codecogs.com/png.image?{
