@@ -160,7 +160,10 @@ $$
 2. 斯托克斯公式（封闭无奇点）
 
    <img src="https://latex.codecogs.com/png.image?{
-    \oint_\Gamma P dx + Q dy +R dz \\
+    \oint_\Gamma P dx + Q dy +R dz 
+    }">
+    
+   <img src="https://latex.codecogs.com/png.image?{
      = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
     }">
    <!-- $$
@@ -190,11 +193,11 @@ $$
 
 1. 直接投影
    $$
-   \tiny \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
+   \small \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
    $$
 2. 转换投影
    $$
-   \tiny \iint_{D_{xy}}[P(-\frac{\partial z}{\partial x})+Q(-\frac{\partial z}{\partial y})+R]dxdy
+   \footnotesize \iint_{D_{xy}}[P(-\frac{\partial z}{\partial x})+Q(-\frac{\partial z}{\partial y})+R]dxdy
    $$
 3. 高斯公式（建议最后再考虑）
    $$
