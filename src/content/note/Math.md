@@ -150,3 +150,48 @@ $$
   \end{matrix}
   \right.
 }">
+
+#### 第二形曲线积分
+1. 一投，二代，三计算
+   $$
+   \oint_\Gamma P dx + Q dy +R dz \\
+    = \int_\Gamma [p(x'_t)+ Q(y'_t)+ R(z'_t)]dt
+   $$
+2. 斯托克斯公式（封闭无奇点）
+   $$
+   \oint_\Gamma P dx + Q dy +R dz \\
+    = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
+   $$
+   可以同旋度公式一起记
+
+   <img src="https://latex.codecogs.com/png.image?{
+   rot = \left|\begin{matrix}
+    i & j & k \\
+    \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
+    P & Q & R \\
+    \end{matrix}\right|
+    }">
+
+#### 第一型曲面积分
+$$
+  \iint_\Sigma f(x,y,z) dS \\
+  = \iint_{D_{xy}} f(x,y,z(x,y))\sqrt{1+(z'_x)^2+(z'_y)^2}dxdy
+$$
+
+#### 第二型曲面积分（别总是无脑上高斯）
+$$
+ \iint_\Sigma Pdydz+Qdzdx+Rdxdy
+$$
+
+1. 直接投影
+   $$
+   \iint_{S_1}Pdydz+\iint_{S_2}Qdzdx+\iint_{S_3}Rdxdy
+   $$
+2. 转换投影
+   $$
+   \iint_{D_{xy}}[P(-\frac{\partial z}{\partial x})+Q(-\frac{\partial z}{\partial y})+R]dxdy
+   $$
+3. 高斯公式（建议最后再考虑）
+   $$
+   \iiint_V(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dxdydz
+   $$
