@@ -43,6 +43,11 @@ although, though, even though, even, despite, in spite of, even if
 
 在句首且改逻辑词所在的句子另一句逻辑相反
 
+##### 总分关系
+for example,for instance,such as, including……
+
+
+
 
 ---
 
