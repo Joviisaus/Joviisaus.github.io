@@ -37,8 +37,11 @@ However:空格前后文都在介绍同一件事情，空格前后肯定否定态
 
 Otherwise:空格前后文指代的不一定是同一件事情。
 
+##### 让步关系
 
+although, though, even though, even, despite, in spite of, even if
 
+在句首且改逻辑词所在的句子与句子主旨相反
 
 
 ---
