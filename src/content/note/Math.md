@@ -221,7 +221,7 @@ $$
 正态总体下的常用结论
 1. 正态分布
     $$
-        \overline{X}～N(\mu,\frac{\sigma^2}{n})
+        \overline{X}\sim N(\mu,\frac{\sigma^2}{n})
     $$
 2. 已知期望和方差下的总体分布
     $$
