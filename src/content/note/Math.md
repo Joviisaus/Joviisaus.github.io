@@ -215,3 +215,27 @@ $$
    $$
    \small \iiint_V(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dxdydz
    $$
+
+### 概率论与数理统计
+
+正态总体下的常用结论
+1. 正态分布
+    $$
+        \overline{X}～N(\mu,\frac{\sigma^2}{n})
+    $$
+2. 已知期望和方差下的总体分布
+    $$
+        \frac{1}{\sigma^2}\sum\limits_{i=1}{n}(X_i-\mu)^2~\mathcal{X}^2(n)
+    $$
+3. 未知期望已知方差下的总体分布
+    $$
+        \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}{n}(\frac{x_i-x}{\sigma})^2~\mathcal{X}^2(n-1)
+    $$
+4. 未知方差已知期望下的总体分布
+    $$
+        \frac{\sqrt{n}(\overline{X}-\mu)}{S}~t(n-1)
+        \frac{n(\overline{X}-\mu)^2}{S^2}~F(1,n-1)
+    $$
+
+### 线性代数
+
