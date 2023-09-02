@@ -44,14 +44,22 @@ although, though, even though, even, despite, in spite of, even if
 在句首且改逻辑词所在的句子另一句逻辑相反
 
 ##### 总分关系
-for example,for instance,such as, including……
+ for example,for instance,such as, including… …
 
+注意名词复数与名词单数同时出现的情况
 
+总应当包括分的所有特征
+
+##### 因果关系
+
+原因词:because,in that. now that,since, as for, as a result of,considering
+
+结果词.so that, such that, as a result,lead to, consequently, therefore,hence. thus,so
 
 
 ---
 
-### 阅读理解
+### 阅读
 
 #####  做题方法
 
