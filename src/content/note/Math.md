@@ -220,22 +220,33 @@ $$
 
 正态总体下的常用结论
 1. 正态分布
-    $$
+   
+    <div align="center">
+    <img src="https://latex.codecogs.com/png.image?{
         \overline{X}\sim N(\mu,\frac{\sigma^2}{n})
-    $$
+    }">
+    </div>
+
 2. 已知期望和方差下的总体分布
-    $$
+    
+    <div align="center">
+    <img src="https://latex.codecogs.com/png.image?{
         \frac{1}{\sigma^2}\sum\limits_{i=1}{n}(X_i-\mu)^2\sim \mathcal{X}^2(n)
-    $$
+        }">
+    </div>
 3. 未知期望已知方差下的总体分布
-    $$
+    <div align="center">
+    <img src="https://latex.codecogs.com/png.image?{
         \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}{n}(\frac{x_i-x}{\sigma})^2\sim \mathcal{X}^2(n-1)
-    $$
+    }">
+    </div>
 4. 未知方差已知期望下的总体分布
-    $$
+    <div align="center">
+    <img src="https://latex.codecogs.com/png.image?{
         \frac{\sqrt{n}(\overline{X}-\mu)}{S}\sim t(n-1)
         \frac{n(\overline{X}-\mu)^2}{S^2}\sim F(1,n-1)
-    $$
+    }">
+    </div>
 
 ### 线性代数
 
