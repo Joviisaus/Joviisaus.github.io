@@ -140,15 +140,17 @@ $$
 ##### 曲线与曲面积分
 
 Jacobi行列值
-$$
+
+<div align=center>
+<img src="https://latex.codecogs.com/png.image?{
 udvdw = \left|\begin{matrix}
 \frac{\partial u}{\partial x} & \frac{\partial u}{\partial y} & \frac{\partial u}{\partial z}\\
 \frac{\partial v}{\partial x} & \frac{\partial v}{\partial y} & \frac{\partial v}{\partial z}\\
 \frac{\partial w}{\partial x} & \frac{\partial w}{\partial y} & \frac{\partial w}{\partial z}\\
 \end{matrix}\right|
 dxdydz
-$$
-
+}">
+</div>
 
 
 ##### 第一型曲线积分("一投，二代，三计算")
@@ -165,10 +167,13 @@ $$
 
 ##### 第二形曲线积分
 1. 一投，二代，三计算
-   $$
-   \small \oint_\Gamma P dx + Q dy +R dz \\
-    \small = \int_\Gamma [p(x'_t)+ Q(y'_t)+ R(z'_t)]dt
-   $$
+<div align=center>
+<img src="https://latex.codecogs.com/png.image?{
+    \oint_\Gamma P dx + Q dy +R dz 
+     = \int_\Gamma [p(x'_t)+ Q(y'_t)+ R(z'_t)]dt
+}">
+</div>
+
 2. 斯托克斯公式（封闭无奇点）
 
    <img src="https://latex.codecogs.com/png.image?{
@@ -193,10 +198,13 @@ $$
     }">
 
 ##### 第一型曲面积分
-$$
+<div align=center>
+<img src="https://latex.codecogs.com/png.image?{
   \small \iint_\Sigma f(x,y,z) dS \\
   \scriptscriptstyle = \iint_{D_{xy}} f(x,y,z(x,y))\sqrt{1+(z'_x)^2+(z'_y)^2}dxdy
-$$
+}">
+</div>
+
 
 ##### 第二型曲面积分（别总是无脑上高斯）
 $$
