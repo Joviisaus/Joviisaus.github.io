@@ -83,7 +83,7 @@ $$
    \frac{x^2}{a^2}-\frac{y^2}{b^2} = cz
    $$
 
-#### 空间几何
+##### 空间几何
  曲面的法向量：
 
 曲面:$F(x,y,z) = 0$,法向量: $\vec{\lambda} = (F'_x,F'_y,F'_z)$
@@ -128,7 +128,7 @@ $$
     \end{matrix}\right|)
 }">
 
-#### 微分方程
+##### 微分方程
 一阶非齐次线性微分方程
 $$y'+P(x)y=Q(x)$$
 $$
@@ -137,7 +137,7 @@ y = (
 )e^{-\int p(x) dx}
 $$
 
-#### 曲线与曲面积分
+##### 曲线与曲面积分
 
 Jacobi行列值
 $$
@@ -216,7 +216,7 @@ $$
    \small \iiint_V(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dxdydz
    $$
 
-### 概率论与数理统计
+#### 概率论与数理统计
 
 正态总体下的常用结论
 1. 正态分布
@@ -240,5 +240,5 @@ $$
         \frac{n(\overline{X}-\mu)^2}{S^2}\sim F(1,n-1)
     }">
 
-### 线性代数
+#### 线性代数
 
