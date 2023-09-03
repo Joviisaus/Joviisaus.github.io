@@ -90,6 +90,8 @@ $$
 
  曲线的切向量：
 
+ <div align=center>
+
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large F\left\{
 \begin{array}
       x= \phi(t) \\
@@ -98,10 +100,12 @@ $$
     \end{array}
     \right.
     \\ \vec{\tau} = (\phi'(t),\Phi'(t),\omega'(t))" style="border:none;">
-
+</div>
 
 
 曲面的交线：
+
+<div align=center>
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= 
 \left\{
@@ -127,6 +131,7 @@ $$
     G'_x & G'_y \\
     \end{matrix}\right|)
 }">
+</div>
 
 ##### 微分方程
 一阶非齐次线性微分方程
@@ -155,6 +160,7 @@ dxdydz
 
 ##### 第一型曲线积分("一投，二代，三计算")
 
+<div align=center>
 <img src="https://latex.codecogs.com/png.image?{
   \left\{
   \begin{matrix}
@@ -164,6 +170,7 @@ dxdydz
   \end{matrix}
   \right.
 }">
+</div>
 
 ##### 第二形曲线积分
 1. 一投，二代，三计算
@@ -176,19 +183,23 @@ dxdydz
 
 2. 斯托克斯公式（封闭无奇点）
 
+   <div align=center>
    <img src="https://latex.codecogs.com/png.image?{
     \oint_\Gamma P dx + Q dy +R dz 
     }">
-
+    </div>
+   <div align=center>
    <img src="https://latex.codecogs.com/png.image?{
      = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
     }">
+    </div>
    <!-- $$
    \scriptsize \oint_\Gamma P dx + Q dy +R dz \\
     \scriptsize = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz\\+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx\\+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
    $$ -->
    可以同旋度公式一起记
 
+   <div align=center>
    <img src="https://latex.codecogs.com/png.image?{
    rot = \left|\begin{matrix}
     i & j & k \\
@@ -196,6 +207,7 @@ dxdydz
     P & Q & R \\
     \end{matrix}\right|
     }">
+    </div>
 
 ##### 第一型曲面积分
 <div align=center>
@@ -239,14 +251,18 @@ $$
         \frac{1}{\sigma^2}\sum\limits_{i=1}{n}(X_i-\mu)^2\sim \mathcal{X}^2(n)
     $$
 3. 未知期望已知方差下的总体分布
+   <div align=center>
      <img src="https://latex.codecogs.com/png.image?{
         \footnotesize \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}{n}(\frac{x_i-x}{\sigma})^2\sim \mathcal{X}^2(n-1)
     }">
+    </div>
 4. 未知方差已知期望下的总体分布
+   <div align=center>
      <img src="https://latex.codecogs.com/png.image?{
         \footnotesize \frac{\sqrt{n}(\overline{X}-\mu)}{S}\sim t(n-1)
         \frac{n(\overline{X}-\mu)^2}{S^2}\sim F(1,n-1)
     }">
+    </div>
 
 #### 线性代数
 
