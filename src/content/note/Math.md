@@ -18,19 +18,19 @@ heroImage: '/Math.jpeg'
 ##### 中值定理
 
 - 罗尔定理
-  $$
-  f(x)在[a,b]上连续，\\若 f(a) = f(b) ,\\则\exist \xi \in(a,b),f'(\xi) = 0
-  $$
+  
+  $f(x)$在$[a,b]$上连续，若 $f(a) = f(b)$ ,则$\exist \xi \in(a,b),f'(\xi) = 0$
+  
 
 - 拉格朗日中值定理
-  $$
-  f(x)在[a,b]上连续，\\则\exist \xi \in(a,b),\\有\frac{f(b)-f(a)}{b-a} = f'(\xi)
-  $$
-  >  出现$f 与f'$的关系时多考虑，只有一个$f$时找$f(x) = 0$
+  
+  $f(x)$在$[a,b]$上连续，则$\exist \xi \in(a,b)$,有$\frac{f(b)-f(a)}{b-a} = f'(\xi)$
+  
+  >  出现$f$ 与$f'$的关系时多考虑，只有一个$f$时找$f(x) = 0$
 - 柯西中值定理
-  $$
-  f(x),g(x)在[a,b]上连续，\\则\exist \xi \in(a,b),\\有\frac{f(b)-f(a)}{g(b)-g(a)} = \frac{f'(\xi)}{g'(\xi)}
-  $$
+  
+  $f(x)$,$g(x)$在$[a,b]$上连续，则$\exist \xi \in(a,b)$,有$\frac{f(b)-f(a)}{g(b)-g(a)} = \frac{f'(\xi)}{g'(\xi)}$
+  
   > 一般$f$和$g$一个具体一个抽象
 - 泰勒公式
   > 这个都要来查的建议先复习到两点😡
@@ -85,9 +85,9 @@ $$
 
 #### 空间几何
  曲面的法向量：
-$$
-曲面:F(x,y,z) = 0,\\法向量:\vec{\lambda} = (F'_x,F'_y,F'_z)
-$$
+
+曲面:$F(x,y,z) = 0$,法向量: $\vec{\lambda} = (F'_x,F'_y,F'_z)$
+
  曲线的切向量：
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large F\left\{
