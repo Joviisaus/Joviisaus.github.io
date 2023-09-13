@@ -18,14 +18,6 @@ A reappear of the article :[Surface Registration with Eigenvalues and Eigenvecto
 
 ### usage
 
-```zsh 
-git clone https://github.com/VIISAUS00/Registration.git
-cd Registration
-mkdir build
-cmake ..
-make
-./Registeration
-```
 
 
 
