@@ -9,7 +9,7 @@ heroImage: '/neovim.png'
 
 今天花了一下午的时间把neovim改造了一下🥵，还记得去年今天实习的时候还不小心当这一群博士的面问出了经典的*vim怎么退出*这个经典问题🫣。
 
-本文将会介绍一下我的neovim配置，文件会放在[仓库]（'https://github.com/Joviisaus/my.neovim.git'）里，还有一些start up插件的自定义主题未公开。过几天看看怎么发布比较好。
+本文将会介绍一下我的neovim配置，文件会放在[仓库]（https://github.com/Joviisaus/my.neovim.git）里，还有一些start up插件的自定义主题未公开。过几天看看怎么发布比较好。
 
 ---
 
