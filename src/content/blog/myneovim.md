@@ -1,8 +1,8 @@
 ---
-title:'Neovim setup'
-description:''
-pubDate:'Sep 13 2023'
-heroImage:'\neovim.png'
+title: 'Neovim setup'
+description: ''
+pubDate: 'Sep 13 2023'
+heroImage: '/neovim.png'
 ---
 
 #### 记录自己配好的neovim
