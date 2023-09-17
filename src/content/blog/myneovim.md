@@ -46,7 +46,7 @@ heroImage: '/neovim.png'
 
 #### Glow
 
-这是一个markdown预览插件，可能还是由于系统不适配的原因，启动后没有编译出二进制文件😭，解决方案是通过*homebrew*安装后直接定向到*bomebrew*的路径下,每次在*normal*下输入*:Glow*即可预览当前buffer的md文件。
+这是一个markdown预览插件，可能还是由于系统不适配的原因，启动后没有编译出二进制文件😭，解决方案是通过*homebrew*安装后直接定向到*bomebrew*的路径下,每次在*normal*下输入*:Glow*即可预览当前buffer的md文件。额外一说：这个插件不能对markdown本身进行preview，他可以将文件里的html代码渲染回markdown文件的样式。
 
 #### Telescope
 
