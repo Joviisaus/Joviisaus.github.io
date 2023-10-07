@@ -202,4 +202,3 @@ although, though, even though, even, despite, in spite of, even if
 5. 出现超纲词汇
    > 1. 运用好逻辑，一般可以找到相反或者相同逻辑的句子
    > 2. 利用题干，预判文章信息。
-
