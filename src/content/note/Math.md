@@ -21,7 +21,6 @@ heroImage: '/Math.jpeg'
   
   $f(x)$在$[a,b]$上连续，若 $f(a) = f(b)$ ,则$\exist \xi \in(a,b),f'(\xi) = 0$
   
-
 - 拉格朗日中值定理
   
   $f(x)$在$[a,b]$上连续，则$\exist \xi \in(a,b)$,有$\frac{f(b)-f(a)}{b-a} = f'(\xi)$
@@ -242,18 +241,18 @@ $$
 1. 正态分布
    
     $$
-        \overline{X}\sim N(\mu,\frac{\sigma^2}{n})
+    \overline{X}\sim N(\mu,\frac{\sigma^2}{n})
     $$
 
 2. 已知期望和方差下的总体分布
-    
+   
     $$
-        \frac{1}{\sigma^2}\sum\limits_{i=1}{n}(X_i-\mu)^2\sim \mathcal{X}^2(n)
+    \frac{1}{\sigma^2}\sum\limits_{i=1}^{n}(X_i-\mu)^2\sim \mathcal{X}^2(n)
     $$
 3. 未知期望已知方差下的总体分布
    <div align=center>
      <img src="https://latex.codecogs.com/png.image?{
-        \footnotesize \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}{n}(\frac{x_i-x}{\sigma})^2\sim \mathcal{X}^2(n-1)
+        \footnotesize \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}^{n}(\frac{x_i-x}{\sigma})^2\sim \mathcal{X}^2(n-1)
     }">
     </div>
 4. 未知方差已知期望下的总体分布
@@ -265,4 +264,75 @@ $$
     </div>
 
 #### 线性代数
+
+##### 有关行列式的重要公式
+
+<div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize \left|kA \right| = k^n \left|A \right|
+ }">  
+ </div>
+若A是可逆矩阵，则有
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize \left|A^{-1} \right| = \frac{\left|A \right|}{\left|A \right|}
+ }"> 
+   </div>
+
+<div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize \left|A \cdot B \right| =  \left|A \right| \left|B \right|
+ }">  
+ </div>
+
+<div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize A \cdot A^* = A^* \cdot A =  \left|A \right| \cdot E
+ }">  
+ </div>
+
+##### 矩阵的秩
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize r(A^T) = r(A)
+}">
+   </div>
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize r(A_{m \times n}) \leq \min{m,n}
+}">
+   </div>
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize r(A) = 0 \Leftrightarrow A = 0
+}">
+   </div>
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize r(kA) = A (k \neq 0)
+}">
+   </div>
+
+ <div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize r(A+B) \leq r(A)+r(B)
+}">
+   </div>
+
+<div align=center>
+  <img src="https://latex.codecogs.com/png.image?{
+     \footnotesize  A_{m \times n},B_{n \times s}, AB = 0\Longrightarrow r(A)+r(B)\leq n
+}">
+   </div>
+
+<div align = center>
+  <p>左乘列满秩右乘行满秩不改变秩,初等变换不改变秩</p>
+</div>
+
+
 
