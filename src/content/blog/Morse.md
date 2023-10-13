@@ -4,6 +4,7 @@ description: 'To describe Morse function with its usage in Spectral '
 pubDate: 'Oct 13 2023'
 heroImage: '/morse.png'
 ---
+
 首先感谢富卫师兄，还有郑老师，能让我接手这么大的一项网格工程。从代码进度来看，网格生成的基本流程已经走通了，但是在划分的时候省略了部分细节导致凹四边形出现。目前来看四边形网格生成技术已经相对成熟，接下来留给我的也只是一些基本的优化了。
 
 ### 系统结构
