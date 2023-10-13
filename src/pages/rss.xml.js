@@ -12,16 +12,15 @@ export async function get(context) {
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
 		site: context.site,
-		items: posts.map((post) => ({
+		items: [posts.map((post) => ({
 			content: sanitizeHtml(parser.render(post.body)),
 			...post.data,
 			link: `/blog/${post.slug}/`,
-		})),
-		items: notes.map((post) => ({
+		})),notes.map((post) => ({
 			content: sanitizeHtml(parser.render(post.body)),
 			...post.data,
 			link: `/blog/${post.slug}/`,
-		}))
+		}))]
 	});
 
 }

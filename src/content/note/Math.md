@@ -1,7 +1,7 @@
 ---
 title: '喝前摇一摇，考前背一背'
 description: '统统上岸！！！'
-pubDate: 'Aug 28 2023'
+pubDate: 'Aug 24 2023'
 heroImage: '/Math.jpeg'
 ---
 

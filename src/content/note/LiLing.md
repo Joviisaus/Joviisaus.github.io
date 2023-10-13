@@ -1,7 +1,7 @@
 ---
 title: '李林108题思路记录'
 description: '本篇笔记将以思路为主，重点考虑考研可能出现的“不偏不怪”的难点'
-pubDate: 'Sep 3 2023'
+pubDate: 'Sep 8 2023'
 heroImage: '/Liling.jpeg'
 ---
 
