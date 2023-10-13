@@ -19,7 +19,7 @@ export async function get(context) {
 		})),notes.map((post) => ({
 			content: sanitizeHtml(parser.render(post.body)),
 			...post.data,
-			link: `/blog/${post.slug}/`,
+			link: `/note/${post.slug}/`,
 		}))]
 	});
 
