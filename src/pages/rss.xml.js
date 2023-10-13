@@ -7,7 +7,7 @@ const parser = new MarkdownIt();
 
 export async function get(context) {
 	const posts = await getCollection('blog');
-  const notes = await grtCollection('note');
+  const notes = await getCollection('note');
 	return rss({
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
