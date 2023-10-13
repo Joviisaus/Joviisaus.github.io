@@ -114,7 +114,7 @@ $$
     \right.
 " style="border:none;">
 
-<img src="https://latex.codecogs.com/svg.image?{
+<img class = "svg" src="https://latex.codecogs.com/svg.image?{
    \vec{\tau} = ( \left|\begin{matrix}
     F'_y & F'_z \\
     G'_y & G'_z \\
@@ -145,7 +145,7 @@ $$
 Jacobi行列值
 
 <div align=center>
-<img src="https://latex.codecogs.com/svg.image?{
+<img class ="svg" src="https://latex.codecogs.com/svg.image?{
 udvdw = \left|\begin{matrix}
 \frac{\partial u}{\partial x} & \frac{\partial u}{\partial y} & \frac{\partial u}{\partial z}\\
 \frac{\partial v}{\partial x} & \frac{\partial v}{\partial y} & \frac{\partial v}{\partial z}\\
@@ -160,7 +160,7 @@ dxdydz
 ##### 第一型曲线积分("一投，二代，三计算")
 
 <div align=center>
-<img src="https://latex.codecogs.com/svg.image?{
+<img class ="svg" src="https://latex.codecogs.com/svg.image?{
   \left\{
   \begin{matrix}
   ds = \sqrt{1+(y'_x)^2}dx \\
@@ -175,7 +175,7 @@ dxdydz
 ##### 第二形曲线积分
 1. 一投，二代，三计算
 <div align=center>
-<img src="https://latex.codecogs.com/svg.image?{
+<img class ="svg" src="https://latex.codecogs.com/svg.image?{
     \oint_\Gamma P dx + Q dy +R dz 
      = \int_\Gamma [p(x'_t)+ Q(y'_t)+ R(z'_t)]dt
 }">
@@ -185,12 +185,12 @@ dxdydz
 2. 斯托克斯公式（封闭无奇点）
 
    <div align=center>
-   <img src="https://latex.codecogs.com/svg.image?{
+   <img class ="svg" src="https://latex.codecogs.com/svg.image?{
     \oint_\Gamma P dx + Q dy +R dz 
     }">
     </div>
    <div align=center>
-   <img src="https://latex.codecogs.com/svg.image?{
+   <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      = \iint_S(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dydz+(\frac{\partial P}{\partial Z}-\frac{\partial R}{\partial x})dzdx+(\frac{\partial Q}{\partial x}-\frac{\partial R}{\partial y})dxdy
     }">
     </div>
@@ -205,7 +205,7 @@ dxdydz
    可以同旋度公式一起记
    
    <div align=center>
-   <img src="https://latex.codecogs.com/svg.image?{
+   <img class ="svg" src="https://latex.codecogs.com/svg.image?{
    rot = \left|\begin{matrix}
     i & j & k \\
     \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
@@ -216,7 +216,7 @@ dxdydz
 
 ##### 第一型曲面积分
 <div align=center>
-<img src="https://latex.codecogs.com/svg.image?{
+<img class ="svg" src="https://latex.codecogs.com/svg.image?{
   \small \iint_\Sigma f(x,y,z) dS \\
   \scriptscriptstyle = \iint_{D_{xy}} f(x,y,z(x,y))\sqrt{1+(z'_x)^2+(z'_y)^2}dxdy
 }">
@@ -258,13 +258,13 @@ $$
     $$
 3. 未知期望已知方差下的总体分布
    <div align=center>
-     <img src="https://latex.codecogs.com/svg.image?{
+     <img class ="svg" src="https://latex.codecogs.com/svg.image?{
         \footnotesize \frac{(n-1)S^2}{\sigma^2}=\sum\limits_{i=1}^{n}(\frac{x_i-x}{\sigma})^2\sim \mathcal{X}^2(n-1)
     }">
     </div>
 4. 未知方差已知期望下的总体分布
    <div align=center>
-     <img src="https://latex.codecogs.com/svg.image?{
+     <img class ="svg" src="https://latex.codecogs.com/svg.image?{
         \footnotesize \frac{\sqrt{n}(\overline{X}-\mu)}{S}\sim t(n-1)
         \frac{n(\overline{X}-\mu)^2}{S^2}\sim F(1,n-1)
     }">
@@ -275,7 +275,7 @@ $$
 ##### 有关行列式的重要公式
 
 <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize \left|kA \right| = k^n \left|A \right|
  }">  
  </div>
@@ -283,19 +283,19 @@ $$
 若A是可逆矩阵，则有
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize \left|A^{-1} \right| = \frac{\left|A \right|}{\left|A \right|}
  }"> 
    </div>
 
 <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize \left|A \cdot B \right| =  \left|A \right| \left|B \right|
  }">  
  </div>
 
 <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize A \cdot A^* = A^* \cdot A =  \left|A \right| \cdot E
  }">  
  </div>
@@ -304,37 +304,37 @@ $$
 ##### 矩阵的秩
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize r(A^T) = r(A)
 }">
    </div>
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize r(A_{m \times n}) \leq \min{m,n}
 }">
    </div>
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize r(A) = 0 \Leftrightarrow A = 0
 }">
    </div>
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize r(kA) = A (k \neq 0)
 }">
    </div>
 
  <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize r(A+B) \leq r(A)+r(B)
 }">
    </div>
 
 <div align=center>
-  <img src="https://latex.codecogs.com/svg.image?{
+  <img class ="svg" src="https://latex.codecogs.com/svg.image?{
      \footnotesize  A_{m \times n},B_{n \times s}, AB = 0\Longrightarrow r(A)+r(B)\leq n
 }">
    </div>
