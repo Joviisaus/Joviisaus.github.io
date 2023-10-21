@@ -5,9 +5,37 @@ pubDate: 'Oct 29 2023'
 heroImage: '/Word.jpeg'
 ---
 
-|    词汇     | 辨析                                                         | 出处 |
-| :---------: | :----------------------------------------------------------- | :--: |
+|    词汇     |                             辨析                             | 出处 |
+| :---------: | :----------------------------------------------------------: | :--: |
 |  formulate  | express your ideas 和 giving particular attention，自带 carefully属性 *不同于 formula* |  -   |
 |    sound    | 僻义：impression > eg.*From the sound of things you were lucky to find him.* |  -   |
-| demonstrate | 熟义：to show and explain  僻义：游行                        |  -   |
-|   rating    | 一个 measurement 来表示其受 欢迎/重要/好 的程度              |  -   |
+| demonstrate |            熟义：to show and explain  僻义：游行             |  -   |
+|   rating    |       一个 measurement 来表示其受 欢迎/重要/好 的程度        |  -   |
+
+|     词汇     |                             辨析                             | 出处 |
+| :----------: | :----------------------------------------------------------: | :--: |
+|    assume    | 僻义：to have power or responsibility, have a particular quality or appearance,pretend to have a particular feeling or quality |  -   |
+| surveillance |                                                              |  -   |
+| accountable  |                       responsible for                        |  -   |
+|    blame     |               僻义：*noun*   =  responsibility               |  -   |
+|   venture    |         a business project + risk 同 adventure 辨析          |  -   |
+|   preside    |     to lead or be in charge of a meeting, ceremony, etc.     |  -   |
+
+|      词汇      |                             辨析                             | 出处 |
+| :------------: | :----------------------------------------------------------: | :--: |
+|     issue      | 僻：problem/worry、series of magazines or newspapers 、making available to buy or use |  -   |
+| correspondence |               connection、 the letters, emails               |  -   |
+|    contrast    |            a difference that you can see clearly             |  -   |
+|    likewise    | the same; in a similar way、区分：likely（having a good chance） |  -   |
+|     stake      |                          股票、树桩                          |  -   |
+|   indicator    | a sign that shows you what something is like or how a situation is changing |  -   |
+|    maintain    |                           to keep                            |  -   |
+|   reasoning    |                     think in a logic way                     |  -   |
+|    express     | 僻：(sth. ) to become(/represent) obvious in a particular way |      |
+
+|   词汇    |                             辨析                             | 出处 |
+| :-------: | :----------------------------------------------------------: | :--: |
+| unanimous |           agreed or shared by everyone in a group            |  -   |
+|  contest  |      a competition、a struggle to gain control or power      |  -   |
+|   echo    | 僻：an opinion or attitude that agrees with or repeats one already expressed or thought |  -   |
+
