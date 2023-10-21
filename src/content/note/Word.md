@@ -39,3 +39,10 @@ heroImage: '/Word.jpeg'
 |  contest  |      a competition、a struggle to gain control or power      |  -   |
 |   echo    | 僻：an opinion or attitude that agrees with or repeats one already expressed or thought |  -   |
 
+|   词汇    |                            辨析                             | 出处 |
+| :-------: | :---------------------------------------------------------: | :--: |
+| warehouse |                      goods are stored,                      |  -   |
+| Contract  | an official written agreement, 易混淆：contradict、contrary |  -   |
+|   hawk    |            to try to sell things （*verb*）、鹰             |  -   |
+|   fetch   |           僻： to be sold for a particular price            |  -   |
+
