@@ -46,3 +46,13 @@ heroImage: '/Word.jpeg'
 |   hawk    |            to try to sell things （*verb*）、鹰             |  -   |
 |   fetch   |           僻： to be sold for a particular price            |  -   |
 
+|  词汇   |                          辨析                           | 出处 |
+| :-----: | :-----------------------------------------------------: | :--: |
+|  Lean   |  v.依靠 n.瘦肉 僻：adj. without much fat; thin and fit  |  -   |
+|  Fold   |        僻：to close because it is not successful        |  -   |
+|  yield  |                profit/to produce profit                 |  -   |
+|  gross  |                        in total                         |  -   |
+|  slump  |           to fall in price/fall down heavily            |  -   |
+| revenue |    the money that a government receives 区分：avenue    |  -   |
+| equity  | the value of a property/ a company’s shares 区分：equal |  -   |
+
