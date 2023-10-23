@@ -56,3 +56,7 @@ heroImage: '/Word.jpeg'
 | revenue |    the money that a government receives 区分：avenue    |  -   |
 | equity  | the value of a property/ a company’s shares 区分：equal |  -   |
 
+|     词汇     |                             辨析                             | 出处 |
+| :----------: | :----------------------------------------------------------: | :--: |
+|     dean     |                             院长                             |  -   |
+| disciplinary | 僻： connected with an area of knowledge, especially a subject that people study in a university |  -   |
