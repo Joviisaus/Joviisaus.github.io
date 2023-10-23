@@ -5,17 +5,17 @@ pubDate: 'Aug 24 2023'
 heroImage: '/Math.jpeg'
 ---
 
-#### 本文宗旨
+# 本文宗旨
 ​       距离24考研接近100天，各位150分的苗子应该已经逐渐完成强化阶段，进入真题和模拟题的训练当中👏。笔者在套卷练习的过程中，发现很多题目虽然能给出一套做题思路，但需要开卷查看已有结论，尤其是数学一概率论部分😭，比如利用方差或样本方差判断分布的四条公式，还有各种概率分布和样本分布的方差均值，每次笔者自己做到套卷最后两道选择题时都不得不翻书，更为明显的例子是计算一阶微分方程$y'+P(x)y=Q(x)$时，强化阶段可以以锻练基本功为由每次遇到都手。在这个阶段除了保证每周两到三张套卷来维持手感的情况下，希望能和观看帖子的诸位一起补充完成这份**喝前摇一摇，考前背一背**清单，笔者归纳能力有限，也难以避免会出现一些“fat finger”的情况希望能够理解。如有修正或者补充乃至对网站维护的建议，欢迎通过[邮件](mailto:ouyangj0815@outlook.com)或者[issue](https://github.com/Joviisaus/Joviisaus.github.io/issues)向我提出。条件允许的话也请为我的[仓库](https://github.com/Joviisaus/Joviisaus.github.io)点个star，感激不尽！
 
 **祝大家全部上岸！**
 
 
-#### 高等数学
+# 高等数学
 
 ---
 
-##### 中值定理
+## 中值定理
 
 - 罗尔定理
   
@@ -36,7 +36,7 @@ heroImage: '/Math.jpeg'
   >
   > 🌟在出现$f$和$f''$的时候重点考虑
 
-##### 常见积分
+## 常见积分
 不定积分
 $$
  \int \tan x dx = -ln|\cot x|+c 
@@ -63,7 +63,7 @@ $$
  \int \cot^2 x dx = -\cot x-x +c
 $$
 
-##### 简单的二次曲面（记名字）
+## 简单的二次曲面（记名字）
 1. 单叶双曲面
    $$
    \frac{x^2}{a^2}+\frac{y^2}{b^2}-\frac{z^2}{c^2} = 1
@@ -82,7 +82,7 @@ $$
    \frac{x^2}{a^2}-\frac{y^2}{b^2} = cz
    $$
 
-##### 空间几何
+## 空间几何
  曲面的法向量：
 
 曲面:$F(x,y,z) = 0$,法向量: $\vec{\lambda} = (F'_x,F'_y,F'_z)$
@@ -131,7 +131,7 @@ $$
 }">
 </div>
 
-##### 微分方程
+## 微分方程
 一阶非齐次线性微分方程
 $$y'+P(x)y=Q(x)$$
 $$
@@ -140,7 +140,7 @@ y = (
 )e^{-\int p(x) dx}
 $$
 
-##### 曲线与曲面积分
+## 曲线与曲面积分
 
 Jacobi行列值
 
@@ -157,7 +157,7 @@ dxdydz
 
 
 
-##### 第一型曲线积分("一投，二代，三计算")
+## 第一型曲线积分("一投，二代，三计算")
 
 <div align=center>
 <img class ="svg" src="https://latex.codecogs.com/svg.image?{
@@ -172,7 +172,7 @@ dxdydz
 </div>
 
 
-##### 第二形曲线积分
+## 第二形曲线积分
 1. 一投，二代，三计算
 <div align=center>
 <img class ="svg" src="https://latex.codecogs.com/svg.image?{
@@ -214,7 +214,7 @@ dxdydz
     }">
     </div>
 
-##### 第一型曲面积分
+## 第一型曲面积分
 <div align=center>
 <img class ="svg" src="https://latex.codecogs.com/svg.image?{
   \small \iint_\Sigma f(x,y,z) dS \\
@@ -224,7 +224,7 @@ dxdydz
 
 
 
-##### 第二型曲面积分（别总是无脑上高斯）
+## 第二型曲面积分（别总是无脑上高斯）
 $$
 \small \iint_\Sigma Pdydz+Qdzdx+Rdxdy
 $$
@@ -242,7 +242,7 @@ $$
    \small \iiint_V(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dxdydz
    $$
 
-#### 概率论与数理统计
+# 概率论与数理统计
 
 正态总体下的常用结论
 1. 正态分布
@@ -270,9 +270,9 @@ $$
     }">
     </div>
 
-#### 线性代数
+# 线性代数
 
-##### 有关行列式的重要公式
+## 有关行列式的重要公式
 
 <div align=center>
   <img class ="svg" src="https://latex.codecogs.com/svg.image?{
@@ -301,7 +301,7 @@ $$
  </div>
 
 
-##### 矩阵的秩
+## 矩阵的秩
 
  <div align=center>
   <img class ="svg" src="https://latex.codecogs.com/svg.image?{

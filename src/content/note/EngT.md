@@ -5,11 +5,11 @@ pubDate: 'Aug 12 2023'
 heroImage: '/English.jpg'
 ---
 
-### 前言
+# 前言
 
 本笔记用于记录市面上众多老师的考研英语做题技巧方法论，可用于提高做题效率，但本笔记**不涉及单词和长难句**，请在确保单词和长难句分析技巧掌握的情况下精做真题，将各位老师的做题技巧融会贯通，本笔记仅做参考使用。
 
-### 完形填空
+# 完形填空
 
 ---
 
@@ -25,11 +25,11 @@ heroImage: '/English.jpg'
 
 做题顺序：每一句话先虚词后实词，逻辑关系已出现时可直接做实词
 
-##### 对立关系
+## 对立关系
 
 对立要求一正一负，而对立要求前后逻辑相反。
 
-##### 转折关系
+## 转折关系
 
 but ,however, yet ,unfortunately ,otherwise , nevertheless...
 
@@ -37,20 +37,20 @@ However:空格前后文都在介绍同一件事情，空格前后肯定否定态
 
 Otherwise:空格前后文指代的不一定是同一件事情。
 
-##### 让步关系
+## 让步关系
 
 although, though, even though, even, despite, in spite of, even if
 
 在句首且改逻辑词所在的句子另一句逻辑相反
 
-##### 总分关系
+## 总分关系
  for example,for instance,such as, including… …
 
 注意名词复数与名词单数同时出现的情况
 
 总应当包括分的所有特征
 
-##### 因果关系
+## 因果关系
 
 原因词:because,in that. now that,since, as for, as a result of,considering
 
@@ -59,9 +59,9 @@ although, though, even though, even, despite, in spite of, even if
 
 ---
 
-### 阅读
+# 阅读
 
-#####  做题方法
+##  做题方法
 
 先看题干，再读全文
 
@@ -73,7 +73,7 @@ although, though, even though, even, despite, in spite of, even if
 
 2. 串联题干间逻辑，推测文章主旨（反复重复的内容)
 
-##### 常考题型
+## 常考题型
    - 细节理解题
 
      【正确答案的特征】
@@ -164,7 +164,7 @@ although, though, even though, even, despite, in spite of, even if
 
    - 标点符号的运用
 
-##### 要点总结
+## 要点总结
    1. 一种很隐蔽的偷换概念：选项完全正确，但与题干所提供的主体不一致。
 
       > Eg. 2012_英语一_Text1 T23:选项指book，而原文在介绍book的缺点后紧接着："The **most glaring flaw** of the **social cure** is……"虽然表示了强调，但由于将主语从book偷换为social cure，故不能选。
