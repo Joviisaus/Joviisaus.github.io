@@ -3,6 +3,7 @@ title: '考研英语重难点词汇辨析'
 description: '重点词，一词多义的辨析'
 pubDate: 'Oct 29 2023'
 heroImage: '/Word.jpeg'
+
 ---
 
 |    词汇     |                             辨析                             | 出处 |
@@ -60,3 +61,11 @@ heroImage: '/Word.jpeg'
 | :----------: | :----------------------------------------------------------: | :--: |
 |     dean     |                             院长                             |  -   |
 | disciplinary | 僻： connected with an area of knowledge, especially a subject that people study in a university |  -   |
+
+|   词汇    |                             辨析                             | 出处 |
+| :-------: | :----------------------------------------------------------: | :--: |
+|   loom    |                            织布机                            |  -   |
+|   probe   |       investigation of something(与probably区别有点大)       |  -   |
+| empirical | based on experiments or experience rather than ideas or theories、区分 imperial |  -   |
+|  screen   | 僻：v. 1.screen somebody (of a company, an organization, etc.) to find out information 2.screen something/somebody (from something/somebody) to hide or protec |  -   |
+
