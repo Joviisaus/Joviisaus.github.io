@@ -229,15 +229,15 @@ h4 {
   font-size: 1.463em;
   counter-increment: heading4;
 }
-h2::before {
+.Text h2::before {
 content: "Section " counter(heading2) " ";
 color: var(--accent-dark);
 }
-h3::before {
+.Text h3::before {
 content: counter(heading2) " - " counter(heading3) ". ";
 color: var(--accent);
 }
-h4::before {
+.Text h4::before {
 content: counter(heading4) ". ";
 color: rgb(var(--back-top));
 }

@@ -234,3 +234,15 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+.Text h2::before {
+	content: "Section " counter(heading2) " ";
+	color: var(--accent-dark);
+	}
+.Text h3::before {
+content: counter(heading2) " - " counter(heading3) ". ";
+color: var(--accent);
+}
+.Text h4::before {
+content: counter(heading4) ". ";
+color: rgb(var(--back-top));
+}

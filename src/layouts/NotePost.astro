@@ -60,7 +60,6 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		</style>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
 		integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
-		<link href="https://github.com/Joviisaus/Joviisaus.github.io/blob/main/src/styles/post.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
@@ -85,7 +84,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<h1>{title}</h1>
 						<hr />
 					</div>
-					<slot />
+					<div class="Text">
+						<slot />
+					</div>
+					
 				</div>
 			</article>
 		</main>
