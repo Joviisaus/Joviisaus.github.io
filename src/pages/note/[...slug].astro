@@ -2,6 +2,10 @@
 import { CollectionEntry, getCollection } from 'astro:content';
 import NotePost from '../../layouts/NotePost.astro';
 import '@fontsource/noto-serif-sc';
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+
+dayjs.extend(utc);
 
 export async function getStaticPaths() {
 	const posts = await getCollection('note');
@@ -14,9 +18,14 @@ type Props = CollectionEntry<'note'>;
 
 const post = Astro.props;
 const { Content ,remarkPluginFrontmatter} = await post.render();
+const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
+  .utc()
+  .format("HH:mm:ss DD MMMM YYYY UTC");
 ---
 
 <NotePost {...post.data}>
 	<Content />
 	<div class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></div>
+	<hr />
+	<p class="time">⌛️ Last Modified: {lastModified}</p>
 </NotePost>

@@ -11,6 +11,7 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import { rehypeHeadingIds } from '@astrojs/markdown-remark';
 import { remarkReadingTime } from './config.plugin/remark-reading-time.mjs';
+import { remarkModifiedTime } from './config.plugin/remark-modified-time.mjs';
 
 
 
@@ -19,7 +20,7 @@ import { remarkReadingTime } from './config.plugin/remark-reading-time.mjs';
 export default defineConfig({
 	site: 'https://joviisaus.github.io',
 	markdown:{
-		remarkPlugins: [remarkParse,remarkMath,remarkRehype,[remarkToc, { heading: "contents" }],remarkReadingTime],
+		remarkPlugins: [remarkParse,remarkMath,remarkRehype,[remarkToc, { heading: "contents" }],remarkReadingTime,remarkModifiedTime],
 		rehypePlugins: [rehypeKatex,rehypeStringify,rehypeHeadingIds,rehypeSlug, [rehypeAutolinkHeadings, { behavior: 'append'}]],
 	},
 	integrations: [mdx(), sitemap()],
