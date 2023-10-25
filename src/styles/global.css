@@ -163,6 +163,39 @@ hr {
 	border-top: 1px solid rgb(var(--gray-light));
 }
 
+.float{
+	opacity:0.05;
+	transition:.3s;
+	text-align: center;
+    bottom: 0px;
+	right: 5px;
+	border-width: 20px;
+    position:fixed;
+    background-color: var(--accent);
+	color: white;
+	border-radius: 5px;
+	border:var(--accent-dark);
+	height: 20px;
+	width: auto + 10px;
+}
+.float:hover{
+	opacity:1;
+  	transform:translateY(0);
+	background-color: var(--accent);
+	color: white;
+
+}
+.float:clicked{
+	color: white;
+	background-color: var(--accent-dark);
+	box-shadow: 2px 3px 3px rgb(var(--black));
+	text-shadow: 2px 3px 3px rgb(var(--gray-dark));
+}
+.time{
+	margin-top: 0;
+	font-size: 15px;
+}
+
 
 
 @media (max-width: 720px) {
