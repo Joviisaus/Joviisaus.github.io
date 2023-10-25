@@ -165,13 +165,13 @@ hr {
 
 .float{
 	opacity:0.05;
+    background-color: var(--accent);
 	transition:.3s;
 	text-align: center;
     bottom: 2px;
 	right: 5px;
 	border-width: 20px;
     position:fixed;
-    background-color: var(--accent);
 	color: white;
 	border-radius: 5px;
 	border:var(--accent-dark);
@@ -181,9 +181,18 @@ hr {
 .float:hover{
 	opacity:1;
 	background-color: var(--accent);
+	animation: .3s;
 	color: white;
-	box-shadow: 1px 1px 1px rgb(var(--black));
-	text-shadow: 1px 1px 1px rgb(var(--gray-dark));
+	height: 20px;
+	width: auto + 10px;
+}
+.float:active{
+	opacity:1;
+	background-color: var(--accent);
+	border: var(--accent-dark);
+	color: white;
+	box-shadow: 2px 2px 2px rgb(var(--gray));
+	text-shadow: 1px 1px 1px rgb(var(--gray));
 	height: 20px;
 	width: auto + 10px;
 }

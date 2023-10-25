@@ -25,7 +25,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
 <NotePost {...post.data}>
 	<Content />
-	<div class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></div>
+	<button class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></button>
 	<hr />
 	<p class="time">⌛️ Last Modified: {lastModified}</p>
 </NotePost>

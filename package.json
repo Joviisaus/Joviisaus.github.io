@@ -16,6 +16,7 @@
     "@fontsource/noto-serif-sc": "^5.0.7",
     "@fontsource/zcool-qingke-huangyou": "^5.0.7",
     "@julian_cataldo/astro-transition": "^0.11.10",
+    "animate.css": "^4.1.1",
     "astro": "^2.10.5",
     "dayjs": "^1.11.10",
     "markdown-it": "^13.0.2",
