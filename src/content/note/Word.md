@@ -69,3 +69,8 @@ heroImage: '/Word.jpeg'
 | empirical | based on experiments or experience rather than ideas or theories、区分 imperial |  -   |
 |  screen   | 僻：v. 1.screen somebody (of a company, an organization, etc.) to find out information 2.screen something/somebody (from something/somebody) to hide or protec |  -   |
 
+|  词汇   |                             辨析                             | 出处 |
+| :-----: | :----------------------------------------------------------: | :--: |
+|  coin   | 僻：v.to invent a new word or phrase that other people then begin to use |  -   |
+|  Novel  |      僻：adj.different from anything known before; new       |      |
+| Radical |     僻：new, different and likely to have a great effect     |      |
