@@ -13,7 +13,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 
-<html lang="en">
+<html lang="en" >
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -47,6 +47,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
+
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
@@ -54,10 +55,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+
 			
 		</style>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
 		integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
+		<link href="https://github.com/Joviisaus/Joviisaus.github.io/blob/main/src/styles/post.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
