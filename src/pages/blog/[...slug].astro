@@ -18,7 +18,7 @@ const { Content , remarkPluginFrontmatter} = await post.render();
 
 <BlogPost {...post.data}>
 	<Content />
-	<div class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></div>
+	<button class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></button>
 	
 </BlogPost>
 
