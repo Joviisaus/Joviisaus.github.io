@@ -72,5 +72,13 @@ heroImage: '/Word.jpeg'
 |  词汇   |                             辨析                             | 出处 |
 | :-----: | :----------------------------------------------------------: | :--: |
 |  coin   | 僻：v.to invent a new word or phrase that other people then begin to use |  -   |
-|  Novel  |      僻：adj.different from anything known before; new       |      |
-| Radical |     僻：new, different and likely to have a great effect     |      |
+|  Novel  |      僻：adj.different from anything known before; new       |  -   |
+| Radical |     僻：new, different and likely to have a great effect     |  -   |
+
+|    词汇    |                   辨析                    | 出处 |
+| :--------: | :---------------------------------------: | :--: |
+|    fume    |                  v.冒烟                   |  -   |
+|    Vice    |                   缺点                    |  -   |
+|   virgin   |   n.a person who has never had sex,adj.   |  -   |
+| compulsive | adj. that is difficult to stop or control |      |
+
