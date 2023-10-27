@@ -82,3 +82,7 @@ heroImage: '/Word.jpeg'
 |   virgin   |   n.a person who has never had sex,adj.   |  -   |
 | compulsive | adj. that is difficult to stop or control |      |
 
+|  词汇  |               辨析               | 出处 |
+| :----: | :------------------------------: | :--: |
+| sacred | adj. connected with God or a god |  -   |
+| remain |           僻：n. 遗迹            |  -   |
