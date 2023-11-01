@@ -86,3 +86,10 @@ heroImage: '/Word.jpeg'
 | :----: | :------------------------------: | :--: |
 | sacred | adj. connected with God or a god |  -   |
 | remain |           僻：n. 遗迹            |  -   |
+
+|    词汇    |                             辨析                             | 出处 |
+| :--------: | :----------------------------------------------------------: | :--: |
+|   impart   | v.to pass information, knowledge, etc. to other people 区分：import |  -   |
+| discourse  | noun. a long and serious treatment or discussion of a subject in speech or writing |  -   |
+| engagement | noun. an arrangement to do something at a particular time 区分动词：engage |  -   |
+| counselor  |                          noun.顾问                           |  -   |
