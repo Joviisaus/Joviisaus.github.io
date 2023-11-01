@@ -1,7 +1,7 @@
 ---
 title: '📸Shot on 2023 Oct'
 description: 'Shot over Dalian'
-pubDate: 'Aug 17 2023'
+pubDate: 'Nov 1 2023'
 heroImage: '/2023_Oct/IMG_6615.jpeg'
 ---
 
