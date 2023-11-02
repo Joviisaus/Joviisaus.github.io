@@ -93,3 +93,9 @@ heroImage: '/Word.jpeg'
 | discourse  | noun. a long and serious treatment or discussion of a subject in speech or writing |  -   |
 | engagement | noun. an arrangement to do something at a particular time 区分动词：engage |  -   |
 | counselor  |                          noun.顾问                           |  -   |
+
+|    词汇    |                             辨析                             | 出处 |
+| :--------: | :----------------------------------------------------------: | :--: |
+| intimidate | v.frighten or threaten somebody so that they will do what you want,区分：intimate,imitate |  -   |
+|    beam    |                   v.a wide and happy smile                   |  -   |
+|  charged   | v.full of or causing strong feelings or opinions,区分：charge |      |
