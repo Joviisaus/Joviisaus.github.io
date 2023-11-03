@@ -98,4 +98,11 @@ heroImage: '/Word.jpeg'
 | :--------: | :----------------------------------------------------------: | :--: |
 | intimidate | v.frighten or threaten somebody so that they will do what you want,区分：intimate,imitate |  -   |
 |    beam    |                   v.a wide and happy smile                   |  -   |
-|  charged   | v.full of or causing strong feelings or opinions,区分：charge |      |
+|  charged   | v.full of or causing strong feelings or opinions,区分：charge |  -   |
+
+|   词汇    |                辨析                 | 出处 |
+| :-------: | :---------------------------------: | :--: |
+| frustrate |          v. 使懊恼，使沮丧          |  -   |
+| grievance |            n. 委屈，不满            |  -   |
+|  plague   |               v. 困扰               |  -   |
+| irritate  | v. to make someone angry or annoyed |  -   |
