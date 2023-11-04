@@ -249,6 +249,6 @@ color: var(--accent);
 	color: var(--accent);
 }
 .Text h4::before {
-content: counter(heading2) "." counter(heading3) "-"  counter(heading4) "";
+content: counter(heading2) "." counter(heading3) "-"  counter(heading4) " ";
 color: var(--back-top);
 }
