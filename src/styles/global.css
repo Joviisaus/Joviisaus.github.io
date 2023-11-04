@@ -242,7 +242,7 @@ hr {
 	color: var(--accent-dark);
 } */
 .Text h3::before {
-content: counter(heading2) "~" counter(heading3) "➢ ";
+content: counter(heading2) "~" counter(heading3) " ➢ ";
 color: var(--accent);
 }
 .Text h3{
@@ -251,7 +251,4 @@ color: var(--accent);
 .Text h4::before {
 content: counter(heading2) "." counter(heading3) ". "  counter(heading4) ". ";
 color: rgb(var(--back-top));
-}
-.Text h4{
-	color: rgb(var(--back-top));
 }
