@@ -252,3 +252,6 @@ color: var(--accent);
 content: counter(heading2) "." counter(heading3) "-"  counter(heading4) " ";
 color: var(--back-top);
 }
+.Text a:hover {
+  color: var(--accent-dark)
+}
