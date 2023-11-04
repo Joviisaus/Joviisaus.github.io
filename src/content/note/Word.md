@@ -106,3 +106,10 @@ heroImage: '/Word.jpeg'
 | grievance |            n. 委屈，不满            |  -   |
 |  plague   |               v. 困扰               |  -   |
 | irritate  | v. to make someone angry or annoyed |  -   |
+
+| 词汇 | 辨析 | 出处 |
+| :--: | :--: | :--: |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
