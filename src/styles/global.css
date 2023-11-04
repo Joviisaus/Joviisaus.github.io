@@ -12,6 +12,7 @@
 	--gray-light: 229, 233, 240;
 	--gray-dark: 34, 41, 57;
 	--back-top: #fcaf5d;
+	--h4-front: #fcaf5d;
 	--background: #f4ede2;
 	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
 	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
@@ -24,14 +25,15 @@
 
  @media (prefers-color-scheme: dark) {
 	:root {
-		--accent: #f52f0c;
-		--accent-dark: #d06a2e;
+		--accent: rgb(137, 51, 98);
+		--accent-dark: rgb(215, 125, 165);
 		--black: 255, 205, 205;
 		--gray: 255, 205, 205;
-		--gray-light: 229, 233, 240;
-		--gray-dark: 255, 205, 205;
+		--gray-light: 250, 217, 244;
+		--gray-dark: 255, 223, 205;
 		--background: 30,0,0;
 		--back-top: #280314;
+		--h4-front: rgb(135, 46, 68);
 		--gray-gradient: rgba(var(--gray-light), 50%), #382102;
 		--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 			0 16px 32px rgba(var(--gray), 33%);
@@ -250,7 +252,7 @@ color: var(--accent);
 }
 .Text h4::before {
 content: counter(heading2) "." counter(heading3) "-"  counter(heading4) " ";
-color: var(--back-top);
+color: var(--h4-front);
 }
 .Text a:hover {
   color: var(--accent-dark)
