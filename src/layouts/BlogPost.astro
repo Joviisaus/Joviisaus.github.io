@@ -13,6 +13,8 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
+		<link rel="stylesheet" href="https://unpkg.com/waveform-playlist@4.2.2/styles/playlist.css">
+    	<script src="https://kit.fontawesome.com/ef69927139.js" crossorigin="anonymous"></script>
 		<script>import '../components/mux-video.ts'</script>
     	<script defer src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script> 
 		<style>
@@ -57,6 +59,8 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	</head>
 
 	<body>
+		<script src="https://unpkg.com/waveform-playlist@4.2.2/build/waveform-playlist.var.min.js"></script>
+		<script src="../components/waveform-playlist.js"></script>
 		<Header />
 		<main>
 			<article>

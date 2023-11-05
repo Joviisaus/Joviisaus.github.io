@@ -71,3 +71,12 @@ heroImage: '/CGI.jpeg'
 2. 顾险峰老师的 [计算共形集合]( https://space.bilibili.com/446605493) ，这个课程基本涵盖了参加实验室工作可能要用到的所有数学知识，课程使用的 [Meshlib](https://github.com/mathsyouth/meshlib) 框架可以很好的处理网格，可以说是 IMIS-Lab 的官方指定合作框架。
 3. 多来听听实验室的讲座，学完前两条资源就算正式入门了，接下来跟着做几个项目读几篇论文，在这个领域该不该走，该怎么走应该就有思路了
 
+<div align=center>
+<button type="button" id="btn-play" title="Play">
+        <i class="fas fa-play"></i>
+    </button>
+    <button type="button" id="btn-pause" title="Pause">
+        <i class="fas fa-pause"></i>
+    </button>
+    <div id="playlist"></div>
+</div>
