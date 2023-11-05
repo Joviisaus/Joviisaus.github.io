@@ -107,9 +107,8 @@ heroImage: '/Word.jpeg'
 |  plague   |               v. 困扰               |  -   |
 | irritate  | v. to make someone angry or annoyed |  -   |
 
-| 词汇 | 辨析 | 出处 |
-| :--: | :--: | :--: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|    词汇    |                   辨析                    | 出处 |
+| :--------: | :---------------------------------------: | :--: |
+|  rhetoric  |            persuasive language            |  -   |
+| embodiment |               n. 化身，包括               |  -   |
+|    term    | n. 任期，学期，术语，条款，关系，说话方式 |  -   |
