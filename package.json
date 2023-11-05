@@ -17,6 +17,7 @@
     "@fontsource/zcool-qingke-huangyou": "^5.0.7",
     "@julian_cataldo/astro-transition": "^0.11.10",
     "animate.css": "^4.1.1",
+    "aplayer": "^1.10.1",
     "astro": "^2.10.5",
     "astro-toc": "^0.1.3",
     "dayjs": "^1.11.10",
