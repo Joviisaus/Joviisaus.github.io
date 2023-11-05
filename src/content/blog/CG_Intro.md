@@ -3,6 +3,7 @@ title: 'CG Log'
 description: '记录到目前为止的图形学踩坑感想，可能可以当作一个入坑指南'
 pubDate: 'Nov 4 2023'
 heroImage: '/CGI.jpeg'
+
 ---
 
 ## 前言
@@ -16,6 +17,8 @@ heroImage: '/CGI.jpeg'
 话不多说，先上[b站](https://www.bilibili.com/video/BV1Hk4y1q7Rz/),或者[YouTube](https://www.youtube.com/watch?v=yTimLYi9XJ4)。
 
 可以说这段视频是我明确要走这条路的最根本原因，虽然现在来看这段视频里讲的内容没有第一次看时那么魔幻高深，主要涉及的内容也是这个方向已经被探索得差不多的渲染方向，但其震撼效果对我而言依然不减。
+
+<div><mux-video playback-id="EcHgOK9coz5K4rjSwOkoE7Y7O01201YMIC200RI6lNxnhs" controls /></div>
 
 ### 其次是一些比较功利性的东西
 
@@ -67,3 +70,4 @@ heroImage: '/CGI.jpeg'
 1. [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) 是国人讲的质量很高的公开课了，主要涉及的是渲染，样条也讲了一点。课程内容本身可能不能很好对接上实验室的工作，但最为图形学的入门课程可以说是必刷的。此外 GAMES 平台还有很多优质的课程，可以根据自己的兴趣来听。
 2. 顾险峰老师的 [计算共形集合]( https://space.bilibili.com/446605493) ，这个课程基本涵盖了参加实验室工作可能要用到的所有数学知识，课程使用的 [Meshlib](https://github.com/mathsyouth/meshlib) 框架可以很好的处理网格，可以说是 IMIS-Lab 的官方指定合作框架。
 3. 多来听听实验室的讲座，学完前两条资源就算正式入门了，接下来跟着做几个项目读几篇论文，在这个领域该不该走，该怎么走应该就有思路了
+

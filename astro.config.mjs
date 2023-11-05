@@ -15,8 +15,6 @@ import { remarkModifiedTime } from './config.plugin/remark-modified-time.mjs';
 import 'animate.css'
 
 
-
-
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://joviisaus.github.io',
