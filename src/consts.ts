@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = 'VIISAUS';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export * as MuxVideo from '@mux/mux-video'

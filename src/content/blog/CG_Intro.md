@@ -18,7 +18,7 @@ heroImage: '/CGI.jpeg'
 
 可以说这段视频是我明确要走这条路的最根本原因，虽然现在来看这段视频里讲的内容没有第一次看时那么魔幻高深，主要涉及的内容也是这个方向已经被探索得差不多的渲染方向，但其震撼效果对我而言依然不减。
 
-<div align = 'center'><mux-video playback-id="sbt2MND8c201VLj8cG6M01011pWgiUmhOKNDNESBKYzWy8" controls /></div>
+<div align = 'center'><mux-video playback-id="4WGcgy01hwAXwImZqgQ2g00917At5SALmvbNtxsfgKdqU" controls /></div>
 
 ### 其次是一些比较功利性的东西
 
