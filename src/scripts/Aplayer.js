@@ -1,4 +1,4 @@
-import 'https://raw.githubusercontent.com/DIYgod/APlayer/master/dist/APlayer.min.css';
+import 'APlayer/dist/APlayer.min.css';
 import APlayer from 'APlayer';
 
 
