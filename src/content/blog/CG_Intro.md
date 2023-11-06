@@ -10,6 +10,8 @@ heroImage: '/CGI.jpeg'
 
 随着笔者上完本校工业软件特色班相关课程，刷完 GAMES101 ，在实验室帮了一点点四边形网格生成的工作，手撸了一套曲面配准代码,前前后后做的工作加起来也有那么一些,自认为在计算机图形学方面是入门了。这篇文章主要介绍一下我的踩坑理由和感想，同时有意向进入工业软件特色班的同学也可以获得一点点参考。
 
+<div id="aplayer"></div>
+
 ## 入坑
 
 ### 首先是一段视频
@@ -70,13 +72,3 @@ heroImage: '/CGI.jpeg'
 1. [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) 是国人讲的质量很高的公开课了，主要涉及的是渲染，样条也讲了一点。课程内容本身可能不能很好对接上实验室的工作，但最为图形学的入门课程可以说是必刷的。此外 GAMES 平台还有很多优质的课程，可以根据自己的兴趣来听。
 2. 顾险峰老师的 [计算共形集合]( https://space.bilibili.com/446605493) ，这个课程基本涵盖了参加实验室工作可能要用到的所有数学知识，课程使用的 [Meshlib](https://github.com/mathsyouth/meshlib) 框架可以很好的处理网格，可以说是 IMIS-Lab 的官方指定合作框架。
 3. 多来听听实验室的讲座，学完前两条资源就算正式入门了，接下来跟着做几个项目读几篇论文，在这个领域该不该走，该怎么走应该就有思路了
-
-<div align=center>
-<button type="button" id="btn-play" title="Play">
-        <i class="fas fa-play"></i>
-    </button>
-    <button type="button" id="btn-pause" title="Pause">
-        <i class="fas fa-pause"></i>
-    </button>
-    <div id="playlist"></div>
-</div>
