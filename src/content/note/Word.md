@@ -112,3 +112,13 @@ heroImage: '/Word.jpeg'
 |  rhetoric  |            persuasive language            |  -   |
 | embodiment |               n. 化身，包括               |  -   |
 |    term    | n. 任期，学期，术语，条款，关系，说话方式 |  -   |
+
+|   词汇    |             辨析             | 出处 |
+| :-------: | :--------------------------: | :--: |
+|   dairy   | 牛奶的，牛奶公司 区分：diary |  -   |
+| compound  |                              |      |
+| enclosure |                              |      |
+|  complex  |     僻：复合体，综合大楼     |      |
+|  retreat  |           n.僻静处           |      |
+|  chamber  |            n.房间            |      |
+|   couch   |          n. 长沙发           |      |
