@@ -116,9 +116,16 @@ heroImage: '/Word.jpeg'
 |   词汇    |             辨析             | 出处 |
 | :-------: | :--------------------------: | :--: |
 |   dairy   | 牛奶的，牛奶公司 区分：diary |  -   |
-| compound  |                              |      |
-| enclosure |                              |      |
-|  complex  |     僻：复合体，综合大楼     |      |
-|  retreat  |           n.僻静处           |      |
-|  chamber  |            n.房间            |      |
-|   couch   |          n. 长沙发           |      |
+| compound  |          n. 建筑群           |  -   |
+| enclosure |           n. 围栏            |  -   |
+|  complex  |     僻：复合体，综合大楼     |  -   |
+|  retreat  |           n.僻静处           |  -   |
+|  chamber  |            n.房间            |  -   |
+|   couch   |          n. 长沙发           |  -   |
+
+|  词汇   |      辨析       | 出处 |
+| :-----: | :-------------: | :--: |
+|  cabin  | n. 小木屋，船舱 |  -   |
+| article |   僻：n. 物品   |  -   |
+| blanket |     n. 毯子     |  -   |
+
