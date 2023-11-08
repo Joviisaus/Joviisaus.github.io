@@ -1,4 +1,5 @@
 ---
+
 title: '考研英语重难点词汇辨析'
 description: '重点词，一词多义的辨析'
 pubDate: 'Oct 29 2023'
@@ -13,6 +14,10 @@ heroImage: '/Word.jpeg'
 | demonstrate |            熟义：to show and explain  僻义：游行             |  -   |
 |   rating    |       一个 measurement 来表示其受 欢迎/重要/好 的程度        |  -   |
 
+---
+
+
+
 |     词汇     |                             辨析                             | 出处 |
 | :----------: | :----------------------------------------------------------: | :--: |
 |    assume    | 僻义：to have power or responsibility, have a particular quality or appearance,pretend to have a particular feeling or quality |  -   |
@@ -21,6 +26,10 @@ heroImage: '/Word.jpeg'
 |    blame     |               僻义：*noun*   =  responsibility               |  -   |
 |   venture    |         a business project + risk 同 adventure 辨析          |  -   |
 |   preside    |     to lead or be in charge of a meeting, ceremony, etc.     |  -   |
+
+---
+
+
 
 |      词汇      |                             辨析                             | 出处 |
 | :------------: | :----------------------------------------------------------: | :--: |
@@ -34,11 +43,19 @@ heroImage: '/Word.jpeg'
 |   reasoning    |                     think in a logic way                     |  -   |
 |    express     | 僻：(sth. ) to become(/represent) obvious in a particular way |      |
 
+---
+
+
+
 |   词汇    |                             辨析                             | 出处 |
 | :-------: | :----------------------------------------------------------: | :--: |
 | unanimous |           agreed or shared by everyone in a group            |  -   |
 |  contest  |      a competition、a struggle to gain control or power      |  -   |
 |   echo    | 僻：an opinion or attitude that agrees with or repeats one already expressed or thought |  -   |
+
+---
+
+
 
 |   词汇    |                            辨析                             | 出处 |
 | :-------: | :---------------------------------------------------------: | :--: |
@@ -46,6 +63,10 @@ heroImage: '/Word.jpeg'
 | Contract  | an official written agreement, 易混淆：contradict、contrary |  -   |
 |   hawk    |            to try to sell things （*verb*）、鹰             |  -   |
 |   fetch   |           僻： to be sold for a particular price            |  -   |
+
+---
+
+
 
 |  词汇   |                          辨析                           | 出处 |
 | :-----: | :-----------------------------------------------------: | :--: |
@@ -57,10 +78,18 @@ heroImage: '/Word.jpeg'
 | revenue |    the money that a government receives 区分：avenue    |  -   |
 | equity  | the value of a property/ a company’s shares 区分：equal |  -   |
 
+---
+
+
+
 |     词汇     |                             辨析                             | 出处 |
 | :----------: | :----------------------------------------------------------: | :--: |
 |     dean     |                             院长                             |  -   |
 | disciplinary | 僻： connected with an area of knowledge, especially a subject that people study in a university |  -   |
+
+---
+
+
 
 |   词汇    |                             辨析                             | 出处 |
 | :-------: | :----------------------------------------------------------: | :--: |
@@ -69,11 +98,19 @@ heroImage: '/Word.jpeg'
 | empirical | based on experiments or experience rather than ideas or theories、区分 imperial |  -   |
 |  screen   | 僻：v. 1.screen somebody (of a company, an organization, etc.) to find out information 2.screen something/somebody (from something/somebody) to hide or protec |  -   |
 
+---
+
+
+
 |  词汇   |                             辨析                             | 出处 |
 | :-----: | :----------------------------------------------------------: | :--: |
 |  coin   | 僻：v.to invent a new word or phrase that other people then begin to use |  -   |
 |  Novel  |      僻：adj.different from anything known before; new       |  -   |
 | Radical |     僻：new, different and likely to have a great effect     |  -   |
+
+---
+
+
 
 |    词汇    |                   辨析                    | 出处 |
 | :--------: | :---------------------------------------: | :--: |
@@ -82,10 +119,18 @@ heroImage: '/Word.jpeg'
 |   virgin   |   n.a person who has never had sex,adj.   |  -   |
 | compulsive | adj. that is difficult to stop or control |      |
 
+---
+
+
+
 |  词汇  |               辨析               | 出处 |
 | :----: | :------------------------------: | :--: |
 | sacred | adj. connected with God or a god |  -   |
 | remain |           僻：n. 遗迹            |  -   |
+
+---
+
+
 
 |    词汇    |                             辨析                             | 出处 |
 | :--------: | :----------------------------------------------------------: | :--: |
@@ -94,11 +139,19 @@ heroImage: '/Word.jpeg'
 | engagement | noun. an arrangement to do something at a particular time 区分动词：engage |  -   |
 | counselor  |                          noun.顾问                           |  -   |
 
+---
+
+
+
 |    词汇    |                             辨析                             | 出处 |
 | :--------: | :----------------------------------------------------------: | :--: |
 | intimidate | v.frighten or threaten somebody so that they will do what you want,区分：intimate,imitate |  -   |
 |    beam    |                   v.a wide and happy smile                   |  -   |
 |  charged   | v.full of or causing strong feelings or opinions,区分：charge |  -   |
+
+---
+
+
 
 |   词汇    |                辨析                 | 出处 |
 | :-------: | :---------------------------------: | :--: |
@@ -107,11 +160,19 @@ heroImage: '/Word.jpeg'
 |  plague   |               v. 困扰               |  -   |
 | irritate  | v. to make someone angry or annoyed |  -   |
 
+---
+
+
+
 |    词汇    |                   辨析                    | 出处 |
 | :--------: | :---------------------------------------: | :--: |
 |  rhetoric  |            persuasive language            |  -   |
 | embodiment |               n. 化身，包括               |  -   |
 |    term    | n. 任期，学期，术语，条款，关系，说话方式 |  -   |
+
+---
+
+
 
 |   词汇    |             辨析             | 出处 |
 | :-------: | :--------------------------: | :--: |
@@ -123,9 +184,23 @@ heroImage: '/Word.jpeg'
 |  chamber  |            n.房间            |  -   |
 |   couch   |          n. 长沙发           |  -   |
 
+---
+
+
+
 |  词汇   |      辨析       | 出处 |
 | :-----: | :-------------: | :--: |
 |  cabin  | n. 小木屋，船舱 |  -   |
 | article |   僻：n. 物品   |  -   |
 | blanket |     n. 毯子     |  -   |
+
+---
+
+
+
+|  词汇  |             辨析              | 出处 |
+| :----: | :---------------------------: | :--: |
+| bound  | 僻：adj. 要到……去的，前往……的 |  -   |
+| course |  僻：noun. 航向，路线、进程   |  -   |
+|  lane  |      n. 车道，跑道、小巷      |  -   |
 
