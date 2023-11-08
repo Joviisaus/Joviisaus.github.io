@@ -74,7 +74,7 @@ although, though, even though, even, despite, in spite of, even if
 2. 串联题干间逻辑，推测文章主旨（反复重复的内容)
 
 ## 常考题型
-   - 细节理解题
+### 细节理解题
 
      【正确答案的特征】
 
@@ -104,7 +104,7 @@ although, though, even though, even, despite, in spite of, even if
         >
         >   eg.2001 T1 23
 
-   - 中心主旨题
+### 中心主旨题
 
      提问方式：*main idea* ,*title*,*writting purpose*
 
@@ -112,13 +112,13 @@ although, though, even though, even, despite, in spite of, even if
 
      **串线法**：抓首段和其余各段的首句(主题句后移)*第二句有转折词或递进词时也看第二句*，将他们的意思连接为一个整体，同时要注意*首段中的陷阱*(开头举例子），连接 时遇到困难想起：从多不从少，从后不从前
 
-   - 例证题
+### 例证题
 
      > 1. 开头举例：引出主题，同中心主旨题
      > 2. 细节例证：返回原文，找到该例证所在位置，搜索该例证周国区域，找到例证支持的观点，通常是该段落首句或小例子的前一句。
      > 3. 全文例证：全文例证证明全文主题，通过串线法找到全文主题，即为全文例证的答案所在。
 
-   - 态度题
+### 态度题
 
      > **根据作者使用的词语的褒贬性，或者例子的褒贬性来判断态度**
      
@@ -146,7 +146,7 @@ although, though, even though, even, despite, in spite of, even if
       - 转折处
       - 情态动词后
 
-   - 语义理解题（词汇题、指代题、句子理解题）
+### 语义理解题（词汇题、指代题、句子理解题）
 
      > 词汇题：逻辑关系
      >
@@ -156,13 +156,13 @@ although, though, even though, even, despite, in spite of, even if
      >
      > 指代题 ：往前或往后找
 
-   - 判断推理题(infer / imply / is true)
+### 判断推理题(infer / imply / is true)
 
      > 判断推理题都按细节题的方法做，提到的选，没提到的不选
      >
      > 判断推理题正确选项特征：意相近，形相远(无法同义改写)
 
-   - 标点符号的运用
+### 标点符号的运用
 
 ## 要点总结
    1. 一种很隐蔽的偷换概念：选项完全正确，但与题干所提供的主体不一致。
