@@ -239,3 +239,9 @@ heroImage: '/Word.jpeg'
 | accountingly    | n. 会计、会计学    | 2010 T4    |
 | compromise   | n. 妥协 v. settle a dispute by mutual concession & bring into disrepute or danger   | 2010 T4   |
 | bruise | n.v 受伤 | 2010 T4|
+
+| 词汇    | 辨析    | 出处    |
+|---------------- | --------------- | --------------- |
+| gulf    | n.海湾    | -    |
+| mill  | n.工厂    | -    |
+
