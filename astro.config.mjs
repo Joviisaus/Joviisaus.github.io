@@ -11,6 +11,7 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import { rehypeHeadingIds } from '@astrojs/markdown-remark';
 import { remarkReadingTime } from './config.plugin/remark-reading-time.mjs';
+import APlayer from 'APlayer';
 import { remarkModifiedTime } from './config.plugin/remark-modified-time.mjs';
 import 'animate.css'
 
