@@ -13,3 +13,12 @@ const ap = new APlayer({
         lrc: '/Music/Shall_we_talk/Shall We Talk-MusicEnc.lrc'
     }
 });
+
+
+export default {
+  build: {
+    rollupOptions: {
+      external: ['APlayer']
+    }
+  }
+}
