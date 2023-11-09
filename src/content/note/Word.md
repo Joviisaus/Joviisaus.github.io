@@ -204,3 +204,13 @@ heroImage: '/Word.jpeg'
 | course |  僻：noun. 航向，路线、进程   |  -   |
 |  lane  |      n. 车道，跑道、小巷      |  -   |
 
+
+---
+
+|   词汇  |         辨析    | 出处    |
+|:------: | :-------------: | :-----: |
+| linger  | stay in a place longer than necessary because of a reluctance to leave    | 外刊 103 |
+| scrub   | n. 擦洗，磨砂膏 v. rub to clean & cancel or abandon & to remove inpurities | 外刊 103 |
+
+
+
