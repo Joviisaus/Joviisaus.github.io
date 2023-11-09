@@ -215,7 +215,7 @@ heroImage: '/Word.jpeg'
 ---
 
 |     词汇    |    辨析    |   出处    |
-|---------------- | --------------- | --------------- |
+|:---------------: | :--------------: | :-------------: |
 |   inexorable    |   adj.impossible to stop    | 2010 T1    |
 |   coverage     |  n. 新闻报道、覆盖    |  2010 T1    |
 | contempt   | n. 蔑视   | 2010 T1   |
@@ -224,10 +224,18 @@ heroImage: '/Word.jpeg'
 ---
 
 | 词汇    | 辨析    | 出处    |
-|---------------- | --------------- | --------------- |
+|:--------------: | :-------------: | :--------------: |
 | curbs    |  n. 控制 v. a check or restraint on something    | 2010 T2    |
 | stake   | n. 桩、赌注、股本   | 2010 T2   |
 | if only & only if   |  要是……就好了 & 只有……才   | 2010 T2   |
 | hedging  | n. 树篱、防护措施 v. limit or qualify sth. & protect against loss & surround with a hedge | 2010 T2|
 | attorney | n. 代理、律师 | 2010 T2|
 
+---
+
+| 词汇    | 辨析    | 出处    |
+|:--------------: | :-------------: | :---------------: |
+| cursory    | adj.hasty and therefore not thorough or detailed    | 2010 T3    |
+| accountingly    | n. 会计、会计学    | 2010 T4    |
+| compromise   | n. 妥协 v. settle a dispute by mutual concession & bring into disrepute or danger   | 2010 T4   |
+| bruise | n.v 受伤 | 2010 T4|
