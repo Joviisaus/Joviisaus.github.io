@@ -47,6 +47,9 @@ const posts = (await getCollection('blog')).sort(
 			ul li:first-child .title {
 				font-size: 2.369rem;
 			}
+      .oldchild {
+        width: calc(33.3% - 1rem);
+      }
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
@@ -91,9 +94,9 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<section>
-				<ul>
+				<ul >
 					{
-						posts.map((post) => (
+						posts.slice(0,1).map((post) => (
 							<li>
 								<a href={`/blog/${post.slug}/`}>
 									<img src={post.data.heroImage} alt="" />
@@ -105,6 +108,35 @@ const posts = (await getCollection('blog')).sort(
 							</li>
 						))
 					}
+          {
+						posts.slice(1,5).map((post) => (
+							<li class="newchild">
+								<a href={`/blog/${post.slug}/`}>
+									<img src={post.data.heroImage} alt="" />
+									<h4 class="title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))
+					}
+          {
+						posts.slice(5,10).map((post) => (
+							<li class="oldchild">
+								<a href={`/blog/${post.slug}/`}>
+									<img src={post.data.heroImage} alt="" />
+									<h4 class="title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+
+						))
+					}
+
+
 				</ul>
 			</section>
 		</main>
