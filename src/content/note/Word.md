@@ -212,5 +212,22 @@ heroImage: '/Word.jpeg'
 | linger  | stay in a place longer than necessary because of a reluctance to leave    | 外刊 103 |
 | scrub   | n. 擦洗，磨砂膏 v. rub to clean & cancel or abandon & to remove inpurities | 外刊 103 |
 
+---
 
+|     词汇    |    辨析    |   出处    |
+|---------------- | --------------- | --------------- |
+|   inexorable    |   adj.impossible to stop    | 2010 T1    |
+|   coverage     |  n. 新闻报道、覆盖    |  2010 T1    |
+| contempt   | n. 蔑视   | 2010 T1   |
+| knight  | n. 爵士   | 2010 T1   |
+
+---
+
+| 词汇    | 辨析    | 出处    |
+|---------------- | --------------- | --------------- |
+| curbs    |  n. 控制 v. a check or restraint on something    | 2010 T2    |
+| stake   | n. 桩、赌注、股本   | 2010 T2   |
+| if only & only if   |  要是……就好了 & 只有……才   | 2010 T2   |
+| hedging  | n. 树篱、防护措施 v. limit or qualify sth. & protect against loss & surround with a hedge | 2010 T2|
+| attorney | n. 代理、律师 | 2010 T2|
 
