@@ -15,10 +15,5 @@ const ap = new APlayer({
 });
 
 
-export {
-  build: {
-    rollupOptions: {
-      external: ['APlayer']
-    }
-  }
-}
+
+
