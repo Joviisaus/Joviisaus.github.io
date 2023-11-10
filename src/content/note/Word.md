@@ -245,3 +245,9 @@ heroImage: '/Word.jpeg'
 | gulf    | n.海湾    | -    |
 | mill  | n.工厂    | -    |
 
+| 词汇    | 辨析    | 出处    |
+|:---------------: | :--------------: | :-------------: |
+| chunk    | n. 一大块 v. group together    | 外刊 107    |
+| unprecedented | adj.  never known or done before |外刊 107 |
+
+
