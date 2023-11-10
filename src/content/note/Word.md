@@ -250,4 +250,7 @@ heroImage: '/Word.jpeg'
 | chunk    | n. 一大块 v. group together    | 外刊 107    |
 | unprecedented | adj.  never known or done before |外刊 107 |
 
-
+| 词汇    | 辨析    | 出处    |
+|:--------------:| :---------------: | :------------: |
+| weather    | 僻：v.come safely through / to keep out rain./wear away or change the appearance or texture   | -    |
+| plaster    | n. 灰泥 | - |
