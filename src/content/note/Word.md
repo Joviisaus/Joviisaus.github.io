@@ -254,3 +254,14 @@ heroImage: '/Word.jpeg'
 |:--------------:| :---------------: | :------------: |
 | weather    | 僻：v.come safely through / to keep out rain./wear away or change the appearance or texture   | -    |
 | plaster    | n. 灰泥 | - |
+
+| 词汇   | 解析   | 出处   |
+|---------------- | --------------- | --------------- |
+| constancy    | n.忠诚    | -    |
+| fraudulent | adj.obtained, done by, or involving deception, especially criminal deception| - |
+| snap | n.adj 啪一下，很快 v.  break suddenly and completely\make a sudden audible bite\suddenly lose one's self-control | - |
+| loyal | adj. giving or showing firm and constant support | - |
+| civilized | adj.at an advanced stage of social and cultural development\polite and well-mannered |- |
+| harsh | adj.unpleasantly rough or jarring to the senses\curl or severe | - |
+| adsently | adv. in an absent-minded way | - |
+
