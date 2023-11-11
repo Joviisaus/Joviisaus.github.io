@@ -124,7 +124,7 @@ a {
 	color: var(--accent);
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-dark);
 }
 p {
 	margin-bottom: 0.5em;
@@ -160,7 +160,7 @@ pre > code {
 	all: unset;
 }
 blockquote {
-	border-left: 4px solid var(--accent);
+	border-left: 4px solid var(--accent-dark);
 	padding: 0 0 0 10px;
 	margin: 0px;
 	font-size: 0.833em;
