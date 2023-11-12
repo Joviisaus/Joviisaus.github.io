@@ -265,3 +265,10 @@ heroImage: '/Word.jpeg'
 | harsh | adj.unpleasantly rough or jarring to the senses\curl or severe | - |
 | adsently | adv. in an absent-minded way | - |
 
+| 词汇    | 解析    | 出处    |
+|---------------- | --------------- | --------------- |
+| fancy    | adj. elaborate in structure or decoration n.v.    | -    |
+| nerve    | 僻：n. 胆量 | - |
+| mighty   | adj. 强有力的 possessing great and impressive power or strength, especially because of size | - |
+| susceptible |adj. likely or liable to be influenced or harmed by a particular thing/capable or admitting of 易受影响的，易受伤害的 |-|
+
