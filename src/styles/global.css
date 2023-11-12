@@ -172,9 +172,10 @@ pre > code {
 
 blockquote {
     position: relative;
-    padding: 10px 12px;
+    padding: 6px 4px;
     box-sizing: border-box;
     font-style: italic;
+    font-size: 0.8em;
     color: var(--gray);
     border-left: solid 30px var(--accent-dark);
     background: var(--accent);
@@ -184,18 +185,13 @@ blockquote {
 blockquote:before{
     display: inline-block;
     position: absolute;
-    top: 50%;
-    left: -20px;
-    -ms-transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 15px;
+    left: -23px;
     content: "💭";
-    font-family: FontAwesome;
-    color: #FFF;
-    font-size: 12px;
-    line-height: 1;
+    font-size: 18px;
     font-weight: 900;
 }
+
 
 blockquote p {
     position: relative;
@@ -209,7 +205,7 @@ blockquote cite {
     display: block;
     text-align: right;
     color: var(--gray);
-    font-size: 0.4em;
+    font-size: 0.6em;
 }
 hr {
 	border-top: 1px solid rgb(var(--gray-light));
