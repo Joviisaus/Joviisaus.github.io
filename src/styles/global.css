@@ -141,6 +141,13 @@ input {
 }
 table {
 	width: 100%;
+  border: 2px solid var(--accent)
+}
+table th{
+  border: 1px solid var(--accent-dark)
+}
+table td{
+  border: 1px solid var(--accent-dark)
 }
 img {
 	max-width: 100%;
@@ -159,12 +166,47 @@ pre {
 pre > code {
 	all: unset;
 }
+
 blockquote {
-	border-left: 4px solid var(--accent-dark);
-	padding: 0 0 0 10px;
-	margin: 0px;
-	font-size: 0.833em;
-	border: none;
+    position: relative;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    font-style: italic;
+    color: var(--gray);
+    border-left: solid 30px var(--accent-dark);
+    background: var(--accent);
+}
+
+
+blockquote:before{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: -20px;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    content: "💭";
+    font-family: FontAwesome;
+    color: #FFF;
+    font-size: 12px;
+    line-height: 1;
+    font-weight: 900;
+}
+
+blockquote p {
+    position: relative;
+    padding: 0;
+    margin: 10px 0;
+    z-index: 3;
+    line-height: 1.7;
+}
+
+blockquote cite {
+    display: block;
+    text-align: right;
+    color: var(--gray);
+    font-size: 0.4em;
 }
 hr {
 	border-top: 1px solid rgb(var(--gray-light));
