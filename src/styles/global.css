@@ -143,6 +143,9 @@ table {
 	width: 100%;
   border: 2px solid var(--accent)
 }
+table caption{
+  font-weight: bold;
+}
 table th{
   border: 1px solid var(--accent-dark)
 }
