@@ -240,23 +240,31 @@ heroImage: '/Word.jpeg'
 | compromise   | n. 妥协 v. settle a dispute by mutual concession & bring into disrepute or danger   | 2010 T4   |
 | bruise | n.v 受伤 | 2010 T4|
 
+---
+
 | 词汇    | 辨析    | 出处    |
 |---------------- | --------------- | --------------- |
 | gulf    | n.海湾    | -    |
 | mill  | n.工厂    | -    |
+
+---
 
 | 词汇    | 辨析    | 出处    |
 |:---------------: | :--------------: | :-------------: |
 | chunk    | n. 一大块 v. group together    | 外刊 107    |
 | unprecedented | adj.  never known or done before |外刊 107 |
 
+---
+
 | 词汇    | 辨析    | 出处    |
 |:--------------:| :---------------: | :------------: |
 | weather    | 僻：v.come safely through / to keep out rain./wear away or change the appearance or texture   | -    |
 | plaster    | n. 灰泥 | - |
 
+---
+
 | 词汇   | 解析   | 出处   |
-|---------------- | --------------- | --------------- |
+|:--------------: | :-------------: | :--------------: |
 | constancy    | n.忠诚    | -    |
 | fraudulent | adj.obtained, done by, or involving deception, especially criminal deception| - |
 | snap | n.adj 啪一下，很快 v.  break suddenly and completely\make a sudden audible bite\suddenly lose one's self-control | - |
@@ -265,10 +273,17 @@ heroImage: '/Word.jpeg'
 | harsh | adj.unpleasantly rough or jarring to the senses\curl or severe | - |
 | adsently | adv. in an absent-minded way | - |
 
+---
+
 | 词汇    | 解析    | 出处    |
-|---------------- | --------------- | --------------- |
+|:----------------: | :---------------: | :---------------: |
 | fancy    | adj. elaborate in structure or decoration n.v.    | -    |
 | nerve    | 僻：n. 胆量 | - |
 | mighty   | adj. 强有力的 possessing great and impressive power or strength, especially because of size | - |
 | susceptible |adj. likely or liable to be influenced or harmed by a particular thing/capable or admitting of 易受影响的，易受伤害的 |-|
+
+---
+
+| 词汇    | 解析   | 出处    |
+|:--------------: | :-------------: | :-------------: |
 
