@@ -286,4 +286,7 @@ heroImage: '/Word.jpeg'
 
 | 词汇    | 解析   | 出处    |
 |:--------------: | :-------------: | :-------------: |
-
+| grasp | n.v.抓 区分：scrape | - |
+| contemplate | v. look thoughtfully for a long time at | - |
+| obscure | adj.not discovered or known about/not clearly expressed or easily understood v.keep from being seen | - |
+| eminent | adj . famous and respected within a particular sphere | - |
