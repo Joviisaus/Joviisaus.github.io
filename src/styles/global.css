@@ -176,8 +176,8 @@ blockquote {
     box-sizing: border-box;
     font-size: 0.8em;
     color: var(--gray);
-    border-left: solid 30px var(--accent-dark);
-    background: var(--accent);
+    border-left: solid 30px var(--accent);
+    background: var(--back-top);
 }
 
 
