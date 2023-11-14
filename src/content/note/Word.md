@@ -243,7 +243,7 @@ heroImage: '/Word.jpeg'
 ---
 
 | 词汇    | 辨析    | 出处    |
-|---------------- | --------------- | --------------- |
+|:--------------: | :------------: | :-------------: |
 | gulf    | n.海湾    | -    |
 | mill  | n.工厂    | -    |
 
@@ -290,3 +290,13 @@ heroImage: '/Word.jpeg'
 | contemplate | v. look thoughtfully for a long time at | - |
 | obscure | adj.not discovered or known about/not clearly expressed or easily understood v.keep from being seen | - |
 | eminent | adj . famous and respected within a particular sphere | - |
+
+---
+
+| 词汇    | 解析    | 出处    |
+|:--------------: | :-------------: | :-------------: |
+| deteriorates    | v.become progressively worse    |  外刊 111   |
+| impair | v.weaken or damage | 外刊 111 |
+| ceanky | adj. eccentric or strange/ bad-tempered/working erratically | 外刊 111 |
+| insane | adj. very foolish/ lacking the ability to think/ shocking | 外刊 111 |
+
