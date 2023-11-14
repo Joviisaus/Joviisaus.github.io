@@ -178,6 +178,7 @@ blockquote {
     color: var(--gray);
     border-left: solid 30px var(--accent);
     background: var(--back-top);
+    border-radius: 8px;
 }
 
 
