@@ -300,3 +300,11 @@ heroImage: '/Word.jpeg'
 | ceanky | adj. eccentric or strange/ bad-tempered/working erratically | 外刊 111 |
 | insane | adj. very foolish/ lacking the ability to think/ shocking | 外刊 111 |
 
+
+
+| 词汇    | 解析    | 出处    |
+|:--------------: | :-------------: | :-------------: |
+| alarmist | 危言耸听 （sb.)creating needless worry or panic 带有感情色彩 | 2018 T1 |
+| upheaval | n. 变动，动乱/ 地壳运动 | 2018 T1|
+| dynamism | n. 活力 | 2018 T1 |
+| upend | v. set or turn (something) on its end or upside down/ so that the tail is raised in the air | 2018 T1 |
