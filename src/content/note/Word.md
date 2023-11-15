@@ -315,3 +315,6 @@ heroImage: '/Word.jpeg'
 | 词汇    | 解析    | 出处    |
 |:--------------: | :-------------: | :-------------: |
 | observe | 僻：make a remark / fulfil or comply with | - |
+| claimant | n. 索赔人，继承人 | - |
+| contention | n. 论点，争论，竞赛 | - |
+
