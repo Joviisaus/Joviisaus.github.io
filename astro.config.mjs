@@ -17,7 +17,7 @@ import 'animate.css'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://joviisaus.github.io',
+	site: 'https://viisaus.tech',
 	markdown:{
 		remarkPlugins: [remarkParse,remarkMath,remarkRehype,[remarkToc, { heading: "contents" }],remarkReadingTime,remarkModifiedTime],
 		rehypePlugins: [rehypeKatex,rehypeStringify,rehypeHeadingIds,rehypeSlug, [rehypeAutolinkHeadings, { behavior: 'append'}]],
