@@ -324,4 +324,7 @@ heroImage: '/Word.jpeg'
 |:--------------: | :-------------: | :-------------: |
 | triviality | n. 琐事 | - |
 | imperative | adj.  of vital importance/giving an authoritative command n.紧迫之事/祈使句 | - |
+| stun | v.  knock unconscious or into a dazed or semi-conscious state/ astonish or shock | - |
+| stunning | adj. extremely impressive or attractive 正面积极态度 | - |
+| sweeping | adj. extending or performed in a long, continuous curve/wide in range or effect n.扫拢的垃圾 | - |
 

@@ -42,12 +42,12 @@ heroImage: '/neovim.png'
 
 ## dashboard
 
-这里没有使用最热门的*dashboard*插件，而是使用相对冷门的*start up*,这涉及到一些可能是适配的问题，由于插件由*packer*管理，而*dash board*的插件默认安装在opt目录下，*neovim*启动时只会搜索同级下的*start*目录，虽然可以手动移动，但由于packer的机制，每次对*plugin.lua*文件修改时都会更新这两个文件夹。
+这里没有使用最热门的 *dashboard* 插件，而是使用相对冷门的 *start up* ,这涉及到一些可能是适配的问题，由于插件由 *packer* 管理，而 *dash board* 的插件默认安装在opt目录下， *neovim* 启动时只会搜索同级下的 *start* 目录，虽然可以手动移动，但由于packer的机制，每次对*plugin.lua*文件修改时都会更新这两个文件夹。
 
 ## Glow
 
-这是一个markdown预览插件，可能还是由于系统不适配的原因，启动后没有编译出二进制文件😭，解决方案是通过*homebrew*安装后直接定向到*bomebrew*的路径下,每次在*normal*下输入*:Glow*即可预览当前buffer的md文件。额外一说：这个插件不能对markdown本身进行preview，他可以将文件里的html代码渲染回markdown文件的样式。
+这是一个 markdown 预览插件，可能还是由于系统不适配的原因，启动后没有编译出二进制文件😭，解决方案是通过 *homebrew* 安装后直接定向到 *bomebrew* 的路径下,每次在 *normal* 下输入 *:Glow* 即可预览当前buffer的md文件。额外一说：这个插件不仅对markdown本身进行 preview ，他似乎是可以将文件里的html代码渲染回markdown文件的样式。
 
 ## Telescope
 
-经典的文件检索插件，这里额外配置了一个*telescope-media_files*的插件，有一点需要注意的是Macos默认没有fd命令，使用homebrew额外安装即可，如果是ubuntu的话可能就得改配置文件了。
+经典的文件检索插件，这里额外配置了一个 *telescope-media_files* 的插件，有一点需要注意的是 Macos 默认没有fd命令，使用 homebrew 额外安装即可，如果是 ubuntu 的话可能就得改配置文件了。
