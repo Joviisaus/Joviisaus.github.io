@@ -318,3 +318,10 @@ heroImage: '/Word.jpeg'
 | claimant | n. 索赔人，继承人 | - |
 | contention | n. 论点，争论，竞赛 | - |
 
+---
+
+| 词汇    | 解析    | 出处    |
+|:--------------: | :-------------: | :-------------: |
+| triviality | n. 琐事 | - |
+| imperative | adj.  of vital importance/giving an authoritative command n.紧迫之事/祈使句 | - |
+
