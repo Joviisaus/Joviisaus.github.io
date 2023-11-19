@@ -1227,7 +1227,16 @@ $$
 
 目前 JUnit 的最新版本 JUnit 5，但 JUnit 4 目前应用得更为广泛，它是在 JUnit 3 的基础上主要增加了对 Java 5 及以上的支持，即加入了 Java 的 Annotation 机制
 
+JUnit 的基本思想是对不同的测试用例创建与其对应的测试方法，测试用例的执行和评价由 JUnit 接管。
 
+设置测试的顺序以避免不同测试的结果造成的影响
+
+``` java
+protected void setUp(){ ... } 
+
+protected void tearDown(){ ... }
+
+```
 
 
 
