@@ -1230,12 +1230,9 @@ $$
 JUnit 的基本思想是对不同的测试用例创建与其对应的测试方法，测试用例的执行和评价由 JUnit 接管。
 
 设置测试的顺序以避免不同测试的结果造成的影响
-
 <pre>
-<code class="java">
-protected void setUp(){ ... } 
-protected void tearDown(){ ... }
-</code>
+    <code class="language-java">protected void setUp(){ ... } 
+protected void tearDown(){ ... }</code>
 </pre>
 
 
