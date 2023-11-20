@@ -1233,11 +1233,13 @@ JUnit 的基本思想是对不同的测试用例创建与其对应的测试方�
 
 
 
-``` java
+<pre>
+<code class="java">
 protected void setUp(){ ... } 
-
 protected void tearDown(){ ... }
-```
+</code>
+</pre>
+
 
 
 
