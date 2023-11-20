@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^0.19.7",
+    "@astrojs/prism": "^3.0.0",
     "@astrojs/rss": "^2.4.4",
     "@astrojs/sitemap": "^2.0.1",
     "@fontsource/noto-serif-sc": "^5.0.7",
@@ -37,7 +38,11 @@
     "remark-toc": "^9.0.0",
     "rollup-plugin-css-only": "^4.5.0",
     "sanitize-html": "^2.11.0",
+    "shiki": "^0.14.5",
     "transitions": "^2.0.2",
     "waveform-playlist": "^4.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
   }
 }

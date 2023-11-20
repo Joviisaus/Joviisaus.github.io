@@ -156,28 +156,6 @@ img {
 	height: auto;
 	border-radius: 8px;
 }
-code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
-}
-pre {
-	padding: 1.5em;
-	border-radius: 8px;
-}
-pre > code {
-	all: unset;
-}
-code {
-	position: relative;
-    padding: 6px 4px;
-    box-sizing: border-box;
-    font-size: 0.8em;
-    color: var(--gray);
-    border-left: solid 30px var(--accent);
-    background: var(--back-top);
-    border-radius: 8px;
-}
 
 blockquote {
     position: relative;
