@@ -125,18 +125,6 @@
     height: auto;
     border-radius: 8px;
   }
-  code {
-    padding: 2px 5px;
-    background-color: rgb(var(--gray-light));
-    border-radius: 2px;
-  }
-  pre {
-    padding: 1.5em;
-    border-radius: 8px;
-  }
-  pre > code {
-    all: unset;
-  }
   blockquote {
     border-left: 4px solid var(--accent);
     padding: 0 0 0 10px;
@@ -147,6 +135,8 @@
   hr {
     border-top: 1px solid rgb(var(--gray-light));
   }
+  code,
+  pre,
   
   .float{
     opacity:0.05;

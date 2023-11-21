@@ -14,7 +14,7 @@ export function shikicustome(){
             // 添加自定义语言
             // 注意：Shiki 内置了无数语言，包括 .astro！
             // https://github.com/shikijs/shiki/blob/main/docs/languages.md
-            langs: ['java','c++','python'],
+            langs: [],
             // 启用自动换行，以防止水平滚动
             wrap: true,
           },
