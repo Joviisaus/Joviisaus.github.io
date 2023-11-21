@@ -10,6 +10,33 @@ scriptMd5.onload = function () {
   syntaxHighlight();
   // step2. lazyload
   initLazyLoad();
+  // step3. aplayer
+  initAplayer();
+}
+
+function initAplayer() {
+  
+  var script = document.createElement("script");
+  script.src = "//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.js";
+  document.head.appendChild(script);
+
+  var style = document.createElement("link");
+  style.rel = "stylesheet";
+  style.href = "//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css";
+  document.head.appendChild(style);
+
+  const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    lrcType: 3,
+    audio: {
+        name: 'shall we talk',
+        artist: 'Eason Chan',
+        url: '/Music/Shall_we_talk/陳奕迅 – Shall We Talk.mp3',
+        cover: '/Music/Shall_we_talk/Cover.jpeg',
+        lrc: '/Music/Shall_we_talk/Shall We Talk-MusicEnc.lrc'
+    }
+});
+
 }
 
 function initLazyLoad() {
