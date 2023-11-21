@@ -1253,10 +1253,11 @@ protected void tearDown(){ ... }
 
    带有很多规模较小的方法的类的测试性要好于那些带有较少方法但每个方法的规模较大的类
 
-   ```java
-   getRent(car, customer)
-   getRent(car.getDays(), car.getPrice(), customer.getDiscount())//第二个方法优于第一个
-   ```
+```java
+getRent(car, customer)
+getRent(car.getDays(), car.getPrice(), customer.getDiscount())
+//第二个方法优于第一个
+```
 
 2. 避免私有方法
 3. 优先使用通用方法

@@ -143,10 +143,12 @@ function syntaxHighlight() {
   styleDark.rel = "stylesheet";
   styleDark.href = "//cdn.staticfile.org/highlight.js/11.7.0/styles/stackoverflow-dark.min.css";
 
-  if (document.querySelector("body").classList.contains("theme-dark")) {
-    document.head.appendChild(styleDark);
-  } else {
+  var cs = window.matchMedia("(prefers-color-scheme: light)")
+
+  if (cs.matches) {
     document.head.appendChild(styleLight);
+  } else {
+    document.head.appendChild(styleDark);
   }
 
   script.onload = function () {
