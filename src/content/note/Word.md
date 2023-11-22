@@ -328,3 +328,15 @@ heroImage: '/Word.jpeg'
 | stunning | adj. extremely impressive or attractive 正面积极态度 | - |
 | sweeping | adj. extending or performed in a long, continuous curve/wide in range or effect n.扫拢的垃圾 | - |
 
+---
+
+|   词汇   |                             解析                             | 出处 |
+| :------: | :----------------------------------------------------------: | :--: |
+|   stem   | v. originate in or be caused by/ stop or restric n . 梗 羽干 柄脚 烟斗柄 干线 符干 词干 船头 |  -   |
+|  deter   | v. discourage (someone) from doing something by instilling doubt or fear of the consequences |  -   |
+| omission |                        n. 疏漏，排除                         |  -   |
+| shatter  | v.  break or cause to break suddenly and violently into pieces |  -   |
+|   back   |    僻；vt. give financial, material, or moral support to     |  -   |
+
+---
+
