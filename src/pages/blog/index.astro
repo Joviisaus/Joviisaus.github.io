@@ -47,20 +47,19 @@ const posts = (await getCollection('blog')).sort(
 			ul li:first-child .title {
 				font-size: 2.369rem;
 			}
-      .oldchild {
-        width: calc(33.3% - 1rem);
-      }
+			ul .oldchild {
+        		width: calc(33.3% - 1rem);
+      		}
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
-        --a: .2deg; /* control the angle of rotation (the smaller, the better) */
-        border-radius: 20px;
-        transform: perspective(400px) rotate3d(var(--r,1,1,0),calc(var(--i,1)*var(--a)));
-        -webkit-mask: 
-          linear-gradient(135deg,#fff 45%,#fffc,#fff 55%)
-          100% 100%/250% 250%;
-        cursor: pointer;
-
+        		--a: .2deg; /* control the angle of rotation (the smaller, the better) */
+        		border-radius: 20px;
+        		transform: perspective(400px) rotate3d(var(--r,1,1,0),calc(var(--i,1)*var(--a)));
+        		-webkit-mask: 
+         		linear-gradient(135deg,#fff 45%,#fffc,#fff 55%)
+          				100% 100%/250% 250%;
+        		cursor: pointer;
 			}
 			ul li a {
 				display: block;
@@ -79,13 +78,13 @@ const posts = (await getCollection('blog')).sort(
       }
 			ul li a:hover .date {
 				color: var(--accent);
-        text-shadow: var(--box-shadow)
+        		text-shadow: var(--box-shadow)
 			}
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
-        --i:-15;
-        -webkit-mask-position: 0 0;
-      }
+        		--i:-15;
+        		-webkit-mask-position: 0 0;
+      		}
 			@media (max-width: 720px) {
 				ul {
 					gap: 0.5em;
@@ -94,9 +93,9 @@ const posts = (await getCollection('blog')).sort(
 					width: 100%;
 					text-align: center;
 				}
-        .oldchild {
-          width: 100%;
-        }
+       			 .oldchild {
+        			  width: 100%;
+        		}
 				ul li:first-child {
 					margin-bottom: 0;
 				}
@@ -126,7 +125,7 @@ const posts = (await getCollection('blog')).sort(
 					}
           {
 						posts.slice(1,5).map((post) => (
-							<li class="newchild">
+							<li>
 								<a href={`/blog/${post.slug}/`}>
 									<img src={post.data.heroImage} alt="" />
 									<h4 class="title">{post.data.title}</h4>
