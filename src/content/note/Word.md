@@ -340,3 +340,8 @@ heroImage: '/Word.jpeg'
 
 ---
 
+|   词汇   |                             解析                             | 出处 |
+| :------: | :----------------------------------------------------------: | :--: |
+| immerse  | v.dip or submerge in a liquid/ involve oneself deeply in a particular activit |  -   |
+| stylish  |          adj. fashionably elegant and sophisticated          |  -   |
+| contract |         僻： v.  decrease in size, number, or range          |  -   |
