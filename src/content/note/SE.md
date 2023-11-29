@@ -1722,7 +1722,7 @@ CMMI(Capability Maturity Model Integration，软件能力成熟度模型集成)�
 
 做好软件开发的某一个方面
 
-CMMI 中过程域(PA)的主要内容分为四大类 22 个，其中 2~3 级有 18 个， 4~5 级有 4 个
+CMMI 中过程域(PA)的主要内容分为四大类 22 个，其中 2 \~ 3 级有 18 个， 4 \~ 5 级有 4 个
 
 ### 个体软件过程(Personal Software Proces，PSP)
 
