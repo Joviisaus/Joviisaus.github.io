@@ -138,7 +138,7 @@ const posts = (await getCollection('blog')).sort(
 						))
 					}
           {
-						posts.slice(5,10).map((post) => (
+						posts.slice(5,15).map((post) => (
 							<li class="oldchild">
 								<a href={`/blog/${post.slug}/`}>
 									<img src={post.data.heroImage} alt="" />
