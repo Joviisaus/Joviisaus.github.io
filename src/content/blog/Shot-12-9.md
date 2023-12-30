@@ -5,7 +5,7 @@ pubDate: 'Dec 9 2023'
 heroImage: '/Fuji101/DSCF8034.JPG'
 ---
 
-# Shot By FujiFilm XT5 with xf33mmf1.4 r lm wr 🤑
+# Shot By *FujiFilm XT5* with *xf33mmf1.4 r lm wr*
 
 ![DSCF8040](/Fuji101/DSCF8040.JPG)
 
