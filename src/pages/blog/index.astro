@@ -115,7 +115,12 @@ const posts = (await getCollection('blog')).sort(
 						posts.slice(0,1).map((post) => (
 							<li>
 								<a href={`/blog/${post.slug}/`}>
-									<img src={post.data.heroImage} alt="" />
+									<div id="element">
+									<div id="g-img">
+										<img src={post.data.heroImage} alt="" />
+										</div>
+										</div>
+									
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} />
@@ -158,4 +163,9 @@ const posts = (await getCollection('blog')).sort(
 		</main>
 		<Footer />
 	</body>
+	<script is:inline>
+		var script = document.createElement("script");
+		script.src = "/static/js/transform.js";
+		document.head.appendChild(script);
+	</script>
 </html>

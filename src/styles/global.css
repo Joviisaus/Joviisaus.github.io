@@ -307,3 +307,40 @@ color: var(--h4-front);
 .Text body{
 	font-size: 1.0em;
 }
+#element {
+    transform-style: preserve-3d;
+    transition: all .1s;
+}
+
+#g-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    filter: brightness(1.2);
+    
+    &::after {
+        content: "";
+        display: none;
+        position: absolute;
+        inset: 0;
+        border-radius: 10px;
+        mix-blend-mode: color-dodge;
+    }
+    
+    &::before {
+        content: "";
+        display: none;
+        position: absolute;
+        inset: 0;
+        border-radius: 10px;
+        mix-blend-mode: color-dodge;
+    }
+    
+    &:hover::after,
+    &:hover::before {
+        display: block;
+    }
+}
