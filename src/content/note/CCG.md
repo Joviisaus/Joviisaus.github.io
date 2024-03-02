@@ -3,7 +3,7 @@
 title: 'computational conformal geography '
 description: '2023 计算共形几何'
 pubDate: 'Jan 28 2024'
-heroImage: '/CCG/title.jpg'
+heroImage: '/CCG/title.png'
 
 ---
 
