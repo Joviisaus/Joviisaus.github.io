@@ -19,7 +19,9 @@ heroImage: '/CCG/title.png'
 
   一个曲面可以连续变形成另一个曲面，不发生撕破或粘连，即表示拓扑等价
 
-- 
+- 共形结构
+  
+  
 
 ## Fundamental Group and Covering Space
 
