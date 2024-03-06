@@ -80,6 +80,18 @@ nvim
 
 
 
+## 常见问题
+
+1. c++ 项目无法识别头文件
+
+    在 CMakeList.txt 添加 
+    ```c++
+    set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+    ```
+    重新编译项目，然后在项目根目录生成一个 compile_commands.json 文件，Neovim 会自动识别头文件。
+2. 代码跳转不准确
+
+    有时候会出现代码跳转不准确的情况，这时候可以尝试删除项目根目录下的 build 文件夹，然后重新编译项目。
 
 
 
