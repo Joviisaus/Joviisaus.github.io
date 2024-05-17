@@ -2,7 +2,7 @@
 title: '毕业论文——致谢部分'
 description: '感谢所有帮助过我的人'
 pubDate: 'May 4 2024'
-heroImage: '/Thanks/IMG_5240.jpeg'
+heroImage: '/Thanks/IMG_5241.jpeg'
 ---
 
 ## 申明
