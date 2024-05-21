@@ -4,14 +4,14 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
-import TOC from '../components/toc.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import '@fontsource/noto-serif-sc';
 import {remark} from 'remark';
 import remarkTOC from 'remark-toc';
 import read from 'to-vfile';
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage,headings } = Astro.props;
 ---
 
 <html lang="en">
@@ -70,6 +70,8 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="title">
             <h1>{title}</h1>
+
+                        <!-- <div class="sidebar-card"><TableOfContents headings={headings} /></div> -->
 						<div class="date">
 							<FormattedDate date={pubDate} />
 							{

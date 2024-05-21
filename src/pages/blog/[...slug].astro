@@ -13,13 +13,21 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content , remarkPluginFrontmatter} = await post.render();
+const { Content , remarkPluginFrontmatter , headings} = await post.render();
+
+import type { MarkdownHeading } from 'astro';
+
+type HeadingWithSubheadings = MarkdownHeading & {
+  subheadings?: HeadingWithSubheadings[];
+};
+
+
 ---
 
-<BlogPost {...post.data}>
-	<Content />
+<BlogPost {...post.data} headings = {headings}>
+
+    <Content />
 	<button class="float"><p class="time">{post.data.title} - {remarkPluginFrontmatter.minutesRead}</p></button>
 	
 </BlogPost>
-
 
