@@ -19,7 +19,7 @@ import 'animate.css';
 // https://astro.build/config
 export default defineConfig({
   shikicustome,
-  site: 'https://viisaus.tech',
+  site: 'https://joviisaus.github.io',
   markdown: {
     remarkPlugins: [remarkParse, remarkMath, remarkRehype, [remarkToc, {
       heading: "contents"
